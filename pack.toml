@@ -1,0 +1,13 @@
+name = "ModPackPRO v1 Nowy Swiat"
+author = "Nstyk"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "1a8806e9d7f2596d3988f4cffc9e294ddc3d8e0de445651d6dbf0403bc1a7e5b"
+
+[versions]
+fabric = "0.18.4"
+minecraft = "1.20.1"

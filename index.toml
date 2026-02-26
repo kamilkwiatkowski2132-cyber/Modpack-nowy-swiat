@@ -1,0 +1,3373 @@
+hash-format = "sha256"
+
+[[files]]
+file = "overrides/config/CoroUtil/General.toml"
+hash = "ea7451d8bf8033ccae1c3d81e1ca0bcf3ae113777bbf1f9bcea38b1ca83b6651"
+
+[[files]]
+file = "overrides/config/DaylightChangerStruggle.json"
+hash = "b4b37b800304d7f1f626ac57ccdf2122c6cfab2076832b2356a66084ddf4ed13"
+
+[[files]]
+file = "overrides/config/DistantHorizons.toml"
+hash = "87a86ebaffb044a072177ada31ae3e844943367493faa9040e6841fc0942921e"
+
+[[files]]
+file = "overrides/config/MouseTweaks.cfg"
+hash = "4069ce1a439d8c37453c1b1e9f2037e0942674c7e48723a39b37eab245792ad4"
+
+[[files]]
+file = "overrides/config/animatica.properties"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "overrides/config/ardapaths.json"
+hash = "85c524b91335eea9330826d7c369804960881c1c24ec3b8912a8a3c27e025768"
+
+[[files]]
+file = "overrides/config/authme.json5"
+hash = "f8fb1898e59a69e6c0494afd877b52e3fb9d2c33746d9afb436c9e7beded156f"
+
+[[files]]
+file = "overrides/config/axiom/.axiominternal.hocon"
+hash = "df45d934d4c230719a4563820817f18a813859a64fc9a218dc5dbd7b863f2122"
+
+[[files]]
+file = "overrides/config/axiom/axiom.hocon"
+hash = "878cde5d1262934e38ffbe0e48a711306c596a526e6d3e43e06ddffa0f999923"
+
+[[files]]
+file = "overrides/config/axiom/history/Multiplayer_108_205_221_190_(Plotsquared) Plots/chunk0.hist"
+hash = "670914ae18684ea1f308e0bdc9544037890bce6efe624fce7fb237bdcf0217e6"
+
+[[files]]
+file = "overrides/config/axiom/history/Multiplayer_108_205_221_190_(Plotsquared) Plots/chunk1.hist"
+hash = "4bbfb7d368dddbe5ed061e47d64f29bf25252c197f9f50467c2a9ab98f5ed88e"
+
+[[files]]
+file = "overrides/config/axiom/history/Multiplayer_108_205_221_190_(Plotsquared) Plots/entry32.hist"
+hash = "4be967ba535a12f5a81e0190fcf4a9072c1b04c0f627fda1ce1c9b4ef47ab57b"
+
+[[files]]
+file = "overrides/config/axiom/history/Multiplayer_108_205_221_190_(Plotsquared) Plots/entry33.hist"
+hash = "f61d7dea9bdb37b4fde673235946154d7720b9227ade4bd6907580783d9063e7"
+
+[[files]]
+file = "overrides/config/axiom/history/Multiplayer_108_205_221_190_(Plotsquared) Plots/entry34.hist"
+hash = "f59d0fa407e17ed6d54109dd64fc8c9a3e706473c08cb95f02450eed0a1c4669"
+
+[[files]]
+file = "overrides/config/axiom/history/Multiplayer_108_205_221_190_(Plotsquared) Plots/entry35.hist"
+hash = "e922ec3d9bdd99d2902c208cf3feddcc78c00b03994b9c48b2a96c7e4ebc1414"
+
+[[files]]
+file = "overrides/config/axiom/history/Multiplayer_108_205_221_190_(Plotsquared) Plots/entry36.hist"
+hash = "c4e659b9da086b4b9f96b514bb0a26d2d83b8583ae484efa3fe44cff7326a88d"
+
+[[files]]
+file = "overrides/config/axiom/history/Multiplayer_108_205_221_190_(Plotsquared) Plots/entry37.hist"
+hash = "b9154cecf2b3cd678c741a0f399da4e00a6cd0d1e182eadf7a27dc5997a23f78"
+
+[[files]]
+file = "overrides/config/axiom/history/Multiplayer_108_205_221_190_(Plotsquared) Plots/entry38.hist"
+hash = "0087ecfc2b5f414d335366b685e69763418b490ec6d6792a9ea922946f88fd79"
+
+[[files]]
+file = "overrides/config/axiom/history/Multiplayer_108_205_221_190_(Plotsquared) Plots/entry39.hist"
+hash = "8a30beb1fd64496dc90758d5faf14b3680495c952120ad1ae1cf72ed3f714b4f"
+
+[[files]]
+file = "overrides/config/axiom/history/Multiplayer_108_205_221_190_(Plotsquared) Plots/position"
+hash = "1d812281382ae5cd3823ec8032fe68b620a29ef3e41e845f391c24fc56bfba9b"
+
+[[files]]
+file = "overrides/config/axiom/history/Multiplayer_108_205_221_190_Overworld/entry0.hist"
+hash = "188f17cd48aa6b39a4d95f7a3e4f17d87d074e1c41c6312db7b95ac267a8a467"
+
+[[files]]
+file = "overrides/config/axiom/history/Multiplayer_108_205_221_190_Overworld/entry1.hist"
+hash = "34fb8dd35f3ea43f1a7d0177e214611b1f1908b4833aec08b468fedc2673ad05"
+
+[[files]]
+file = "overrides/config/axiom/history/Multiplayer_108_205_221_190_Overworld/entry2.hist"
+hash = "a7be33a5f7154a890562ea06349c36620a6d483418bb84f960c97341dbf9029e"
+
+[[files]]
+file = "overrides/config/axiom/history/Multiplayer_108_205_221_190_Overworld/entry3.hist"
+hash = "04ebea2156011aa93558464b1378af696bc4723a55882f0730891e8920844739"
+
+[[files]]
+file = "overrides/config/axiom/history/Multiplayer_108_205_221_190_Overworld/entry4.hist"
+hash = "0b62a969dcbd16c8ca5098e0786d48259daadb23d1561b1dffd21a9e1607cacc"
+
+[[files]]
+file = "overrides/config/axiom/history/Multiplayer_108_205_221_190_Overworld/position"
+hash = "7279e8c3ad3fee56a18c048ce620d342f1961e75a0dd2c9777121b7880e72fd3"
+
+[[files]]
+file = "overrides/config/axiom/history/Multiplayer_195_154_188_13_(Plotsquared) Plots/entry0.hist"
+hash = "47def1f1bf9bcc8009e79b15e0314a425f1ea9a11a2839e4dbcbbcb0ff7c820f"
+
+[[files]]
+file = "overrides/config/axiom/history/Multiplayer_195_154_188_13_(Plotsquared) Plots/entry1.hist"
+hash = "c4f60ba3fdfbd1dc8e6534cead683370f00dd9475b737f6a191f997618ce8884"
+
+[[files]]
+file = "overrides/config/axiom/history/Multiplayer_195_154_188_13_(Plotsquared) Plots/entry10.hist"
+hash = "78e00975e01a01f641816649709ce6f164c3cdcaafa136c86af30147d110f77f"
+
+[[files]]
+file = "overrides/config/axiom/history/Multiplayer_195_154_188_13_(Plotsquared) Plots/entry11.hist"
+hash = "163c2c314d29246f3498305a40c223b501429990d214c20c1d5e394f5569b7fc"
+
+[[files]]
+file = "overrides/config/axiom/history/Multiplayer_195_154_188_13_(Plotsquared) Plots/entry12.hist"
+hash = "764a04838fd7b6c65265b97a61ceaf4444f5c62750a41d2ed4bd25ed49d09daa"
+
+[[files]]
+file = "overrides/config/axiom/history/Multiplayer_195_154_188_13_(Plotsquared) Plots/entry13.hist"
+hash = "ac755681c7ee66c2a10d58371ce79e5bc5a49316791b1dd9902898e058cb933b"
+
+[[files]]
+file = "overrides/config/axiom/history/Multiplayer_195_154_188_13_(Plotsquared) Plots/entry14.hist"
+hash = "a992309c323c541db20493b7767290579893e33a845c87725b8f5b80aab86883"
+
+[[files]]
+file = "overrides/config/axiom/history/Multiplayer_195_154_188_13_(Plotsquared) Plots/entry2.hist"
+hash = "36913906f0b414f8ef02ea1268d639bce57f9808f21da7eb6a4482de41079cab"
+
+[[files]]
+file = "overrides/config/axiom/history/Multiplayer_195_154_188_13_(Plotsquared) Plots/entry3.hist"
+hash = "79f5d2e37a6fa7dabefa5d2b7aebbcdf430a70441e24453b368d0635e86cc01b"
+
+[[files]]
+file = "overrides/config/axiom/history/Multiplayer_195_154_188_13_(Plotsquared) Plots/entry4.hist"
+hash = "6e1d4402a20b3618740d856db25c69038aa62e4bc18aab4edf0d0bc863a2928e"
+
+[[files]]
+file = "overrides/config/axiom/history/Multiplayer_195_154_188_13_(Plotsquared) Plots/entry5.hist"
+hash = "c3f92a90ff58a98215bd13777246a74cc0ee7ea0653537e31b0d010b3da318f1"
+
+[[files]]
+file = "overrides/config/axiom/history/Multiplayer_195_154_188_13_(Plotsquared) Plots/entry6.hist"
+hash = "7ff322a5ba62344832ed5896ab69717214ef19efcee15e56f207ec09d8863ff9"
+
+[[files]]
+file = "overrides/config/axiom/history/Multiplayer_195_154_188_13_(Plotsquared) Plots/entry7.hist"
+hash = "e2363636712811f5c9ee0729884ca8fd25cdd0e001885875770179d8d4852b45"
+
+[[files]]
+file = "overrides/config/axiom/history/Multiplayer_195_154_188_13_(Plotsquared) Plots/entry8.hist"
+hash = "cc6e4216fae4f01f80d73bf08fb7b76a73dc5b501f08b628a362e995478cf9c0"
+
+[[files]]
+file = "overrides/config/axiom/history/Multiplayer_195_154_188_13_(Plotsquared) Plots/entry9.hist"
+hash = "8e55087f94b1e5dcad6822486d5675d0d669c87e7fc1f814d59323142a00122e"
+
+[[files]]
+file = "overrides/config/axiom/history/Multiplayer_195_154_188_13_(Plotsquared) Plots/position"
+hash = "d22897925adaba3eec5e39f39bdd01c7e08f3e190112f165a41d9a7225fb9798"
+
+[[files]]
+file = "overrides/config/axiom/imgui.ini"
+hash = "99b6f8e9eb80b2cf691d63f7809df469d223b077d0a439c581a07af0d7bc7eae"
+
+[[files]]
+file = "overrides/config/axiom/tool_presets/noise_painter/test_preset.nbt"
+hash = "c0873053e19c08e9455dbb1d883cbd75dc19265ca22497f5d9f3951dc572ee11"
+
+[[files]]
+file = "overrides/config/axiom/tool_presets/script_brush/.defaults"
+hash = "b19088278e439999083d9e6e8f01b1cbf1b7afbb972087c25156d7b18c2f14be"
+
+[[files]]
+file = "overrides/config/axiom/tool_presets/script_brush/clear_foliage.nbt"
+hash = "5dce702948c1a1656dbee164018c2f0368280c1e18f80622a83fa876ce1d8fdf"
+
+[[files]]
+file = "overrides/config/axiom/tool_presets/script_brush/flowers.nbt"
+hash = "77d88631efd8b33fb803fd254a80fec06d7bc5ee4350f3492b5e5ee65fd22991"
+
+[[files]]
+file = "overrides/config/axiom/tool_presets/script_brush/grass.nbt"
+hash = "b23069196ac1886005a0353f8ccc2c578d307152563c293c9e5e55c96a829b22"
+
+[[files]]
+file = "overrides/config/axiom/tool_presets/script_brush/heart.nbt"
+hash = "fd50abfa0345a7821f85115d20f636e68e830ad11975287bfa99cab8d017e0f4"
+
+[[files]]
+file = "overrides/config/axiom/tool_presets/script_brush/kelp.nbt"
+hash = "d252ff5bb894991f10fa1f83d2326545f49536e55724dd1ddbc38ccba6a730f2"
+
+[[files]]
+file = "overrides/config/axiom/tool_presets/script_brush/leafy_bushes.nbt"
+hash = "20dc83049920abde48fa6a6b888195b9231d316835142a496e4b40fa06e09276"
+
+[[files]]
+file = "overrides/config/axiom/tool_presets/script_brush/terrain__desert.nbt"
+hash = "e1f0cc2fa91a699ac4c21a21892ad3c0cfebd26fb8c85d392d2ecc7e0ad36957"
+
+[[files]]
+file = "overrides/config/axiom/tool_presets/script_brush/terrain__plains.nbt"
+hash = "4ac5c78b9495a3e96647e24a4c3a5ac8a1f35e4605b5857c8a4761a43d7a9b0b"
+
+[[files]]
+file = "overrides/config/axiom/tool_presets/script_brush/vines.nbt"
+hash = "8fc07700aad6951be9ee60da170397e382c0ebf9c646277d64bfa5ee0c490e8a"
+
+[[files]]
+file = "overrides/config/axiom/translations.zip"
+hash = "ceced45124da48e5478b6f202c9c2d85f3ffdedff93073c0d097302eea4ff145"
+
+[[files]]
+file = "overrides/config/azurelib.json"
+hash = "344aaf500d3a86cc4c335a0b4590792254ae6e0eea0fc8df9ebdad5b95a75b8f"
+
+[[files]]
+file = "overrides/config/bettercombat/client.json5"
+hash = "8b11818b19f97decfcb119cce4038bfe28e83fbf3d2173a5472df678fce1a842"
+
+[[files]]
+file = "overrides/config/bettercombat/fallback_compatibility.json"
+hash = "754feb4474a3f4d9fe6bd08f38c248fd5a796ed51f38d7d5704680250f3a34ca"
+
+[[files]]
+file = "overrides/config/bettercombat/server.json5"
+hash = "cdf806c0ace89872a439f44f383132ed75003ae3445d55faa02a5f5b29aad4ef"
+
+[[files]]
+file = "overrides/config/betterf3.json"
+hash = "8336ac6bd8c433d0f3a65fd849e250e0d947e6c12c89957918a546471c51ede3"
+
+[[files]]
+file = "overrides/config/betterpingdisplay.json"
+hash = "d9b413555ca6e7add44924c507e5ec5dc8db060f9b04fdfefcd505e61faec0e0"
+
+[[files]]
+file = "overrides/config/biomesoplenty/biome_toggles.json"
+hash = "6e81cf8f8ffd55004413d05e2579a63613d39a180bf5a4ff67ffa98ec44b1aa9"
+
+[[files]]
+file = "overrides/config/biomesoplenty/gameplay.toml"
+hash = "b9abd11468b8f1a0a56024f78e27cc6d79c2cce4cce8754b1ba4f0f44289a741"
+
+[[files]]
+file = "overrides/config/biomesoplenty/generation.toml"
+hash = "fc356204ce31fcbf85a81bb7a28ef2127d7296d00f505631306a8470ffb847da"
+
+[[files]]
+file = "overrides/config/blur.json"
+hash = "cf0f2178068e6d9766ac8dea96b2a9f51480939a2f97c440816b6295744dd47a"
+
+[[files]]
+file = "overrides/config/c2me.toml"
+hash = "97027906af0b8446d3780540ff2d9c56b1c5415ca6732b7cc858747cf228e7bd"
+
+[[files]]
+file = "overrides/config/camerautils/camerautils.properties"
+hash = "19a7adc664a126370a143a46f6801c43a1c039df5aae886a929436ffa58a15d2"
+
+[[files]]
+file = "overrides/config/cardinal-components-api.properties"
+hash = "f7e7f346e0724cf9cfb77f44dec2e7d202ea2507729ec7b95ee6a8f089c82982"
+
+[[files]]
+file = "overrides/config/carryon-client.json"
+hash = "b66da6824b6141acca353406c20654ebf599c814d50da37006b2bf51009b4f2a"
+
+[[files]]
+file = "overrides/config/carryon-common.json"
+hash = "da6fdce0a0b230f5ad04a17eba82e3d54651e9c540177e0169cdfe9e6ecba00e"
+
+[[files]]
+file = "overrides/config/chatanimation.json"
+hash = "de5bb1061dcd48c3378f6849658940a465c3e094e5d6c342c5f73ea984da2a8b"
+
+[[files]]
+file = "overrides/config/citresewn-defaults.json"
+hash = "0b333b0bf9a0e573fa14f81610a621b488d5277c9e8f8c6a4c81e6a6cb37e482"
+
+[[files]]
+file = "overrides/config/citresewn.json"
+hash = "1ea03400477ac2075d61ae58cfc573bc78ce954507d090ab69547de279918656"
+
+[[files]]
+file = "overrides/config/cloud-layers.json"
+hash = "629b204f5936e67287449bd5d910915e2ca4b1a31cc21edd3cc3b9efa57c293c"
+
+[[files]]
+file = "overrides/config/combatroll/client.json5"
+hash = "e9714f119c3862a898e53eab1a4ba6220a2194a5bdf0aea86623042d6cbf57e3"
+
+[[files]]
+file = "overrides/config/combatroll/enchantments.json"
+hash = "b807ca9ebe5ca5e45c8367b08cb97a08aa73181b66da4ab7c9f92e02200ca01e"
+
+[[files]]
+file = "overrides/config/combatroll/hud_config.json"
+hash = "174f9be686eeb112482c3b5f2cc58d1f6060357cf75f1abd730c5f80f3ae9e84"
+
+[[files]]
+file = "overrides/config/combatroll/server.json5"
+hash = "6c3ec2b2926b78c73dddf0cfedaf483efb7c3fe8a093f557e560ab280a0683f4"
+
+[[files]]
+file = "overrides/config/conquest-client.toml"
+hash = "c9c283a82e7958cc09d79f6386ca0a85be5bf4cf0f57d4e79e41fa556d1ed468"
+
+[[files]]
+file = "overrides/config/continuity.json"
+hash = "00267a602028cbb037dcb0b5f803db31bed284235ca9c1ea189ad4179311a2f4"
+
+[[files]]
+file = "overrides/config/create-client.toml"
+hash = "3e4867cdb75fb89ddb4e6e1b047b16dac22a22dff7937cda2c31af72bb784493"
+
+[[files]]
+file = "overrides/config/create-common.toml"
+hash = "2e77b1d93b40ce3f381ad7eb2a9e6d7148de917518be5c2616939a4369c4b140"
+
+[[files]]
+file = "overrides/config/create-server.toml"
+hash = "0954f1f111f7cbfa59b97e6e3e80e5233efcf93875bc488749e8cdcc43ce6092"
+
+[[files]]
+file = "overrides/config/cull-less-leaves.json"
+hash = "d5d2f0eda3f02df8bb16485d5aaa97ce35a866f7c235d7053f607c26f53b25c5"
+
+[[files]]
+file = "overrides/config/drippyloadingscreen/config.cfg"
+hash = "b9a9956e2ad94100a2150b4467f144aae5311766761cbab67733896d7f29e92a"
+
+[[files]]
+file = "overrides/config/drippyloadingscreen/options.txt"
+hash = "80ed128a0e856c1d2cf85164d65366dc0c3d14813009401f030ed29143be48e5"
+
+[[files]]
+file = "overrides/config/effective.json"
+hash = "f3034edf221ceb85920b17c93042e603e82b05c10d026691a687083ce173fa4d"
+
+[[files]]
+file = "overrides/config/emotecraft.json"
+hash = "23364846b31c2024f27b738d20c0aa914483bb629694c6b5f08d0a950dcc8846"
+
+[[files]]
+file = "overrides/config/emotecraft_emote_map.json"
+hash = "0ce5a209870e0673c14f68d4581de2cefc67a3c37aa7071c943b711a69835775"
+
+[[files]]
+file = "overrides/config/entity_model_features.json"
+hash = "63038f3672d5d4947e62dc991aec9b81a7295fd3cbe1bb8022aca4ff25b7595f"
+
+[[files]]
+file = "overrides/config/entity_texture_features.json"
+hash = "17178ec49b40bf1c72ff90fa433bc5e0a9f0c1a8f1f40701b3a4efc167e1a714"
+
+[[files]]
+file = "overrides/config/entityculling.json"
+hash = "1b1aca54a7a8862542df7661a06cca7ee47325933108300fa610df6292b5e664"
+
+[[files]]
+file = "overrides/config/epichunt.json"
+hash = "bc1ffaf213a80f9a3c07c8fb2b8705684f968807af84c61d51b3dde58094fded"
+
+[[files]]
+file = "overrides/config/etf_warnings.json"
+hash = "a5ba22e63061c1fb67f0f895f17681351eaeccc225faef966c29ee630593275e"
+
+[[files]]
+file = "overrides/config/fabric/indigo-renderer.properties"
+hash = "4e4f27cb2f49f1489b1cd6baeb8c0c8df6d8d96d1670a54f84f5f7221549524e"
+
+[[files]]
+file = "overrides/config/fabricskyboxes-config.json"
+hash = "582b93ab2b24e82e6d904f7030d95269d7b0326495d19017b63d58ebea2ac15b"
+
+[[files]]
+file = "overrides/config/fancymenu/assets/aclogo16x.png"
+hash = "3299223035f82ea4dc6a84824913231840ae7ecb833060824d4a945ff7c0e2b0"
+
+[[files]]
+file = "overrides/config/fancymenu/assets/aclogo32x.png"
+hash = "05f3f8111bdd372a64a72fcf531128962191bec0997fc520337ce5fdd1512549"
+
+[[files]]
+file = "overrides/config/fancymenu/assets/aclogomac.icns"
+hash = "b40212b622fcd7ff043be52395b9a7eedec7b668e897388f28641a6f7b085f41"
+
+[[files]]
+file = "overrides/config/fancymenu/config.txt"
+hash = "afed292a14910f29745ce552c5e2559608e6f1f58c8a3385b9ce5c67f9931eb4"
+
+[[files]]
+file = "overrides/config/fancymenu/custom_gui_screens.txt"
+hash = "ff492043eaf454c46e949d5eef32ece90cc5a19feb50a161dd29a43b5732c880"
+
+[[files]]
+file = "overrides/config/fancymenu/customizablemenus.txt"
+hash = "d21f2d9cf8dd658b969b87a4c05390dae199b9a92262683331d7946b2cb52904"
+
+[[files]]
+file = "overrides/config/fancymenu/customization/ArdaCraft Default.txt"
+hash = "303f2501a010a91441fb41d6d8cffffa58a24e33c7752b66f593c63ce42fc983"
+
+[[files]]
+file = "overrides/config/fancymenu/customization/ac_joinscreen.txt"
+hash = "4981330af44c861292e0d34f0034c180527110771bab41848ffdf2b3bdd745ae"
+
+[[files]]
+file = "overrides/config/fancymenu/customization/ac_loadscreen.txt"
+hash = "3fc07aa66413c39c3c796e0ec3423415af2307fc31bc369799b6c5815229c6ea"
+
+[[files]]
+file = "overrides/config/fancymenu/customization/ac_loadterrain.txt"
+hash = "38e7c3ae283b6281079e60ed6c572f5a30b177408ecca340bd50626083762720"
+
+[[files]]
+file = "overrides/config/fancymenu/customization/ac_progress.txt"
+hash = "e6de1bafca904ec4819fa94dfc6a1e364ec57ef4a2d3f552c1dc87bd0ea7fce9"
+
+[[files]]
+file = "overrides/config/fancymenu/layout_editor/widgets/element_layer_control.lewidget"
+hash = "71ebfe004e9e9336b794d464099c1d3f3d76b9ddb5c6151c800202551980db6b"
+
+[[files]]
+file = "overrides/config/fancymenu/legacy_checklist.txt"
+hash = "9a25d3dc708e43eabafce5479a13c02dae15bc7f673afb2745b8b2ba48a97dc0"
+
+[[files]]
+file = "overrides/config/fancymenu/locals/de_de.local"
+hash = "13485f1d678322a328e798c34f1ff9f7f9c690464d1050e2e7c1ea02b0f49b61"
+
+[[files]]
+file = "overrides/config/fancymenu/locals/en_us.local"
+hash = "b0d171d4b61ec85b02e1f1e30a1cdc299ce5f5236dbad01689606923d99ca4cb"
+
+[[files]]
+file = "overrides/config/fancymenu/locals/pl_pl.local"
+hash = "66d4e9b270d4d92bffd85b13255def475d3ff6c865965deaa700be2ed1b08bc0"
+
+[[files]]
+file = "overrides/config/fancymenu/locals/pt_br.local"
+hash = "0b19fc1d8bd8c86435eb39886116aceb3b4554fa749561fc87be2df0157a134c"
+
+[[files]]
+file = "overrides/config/fancymenu/locals/ru_ru.local"
+hash = "2120cd2e1de7d8ec9ee8d18f24db70645e92042ba55ffbbc68403ecdc8a50fce"
+
+[[files]]
+file = "overrides/config/fancymenu/locals/uk_ua.local"
+hash = "c9a592ff8445f3d8d6a87a59df27e72a67b71afcf0fc03dad27a5ded2f94a780"
+
+[[files]]
+file = "overrides/config/fancymenu/locals/zh_cn.local"
+hash = "50cf30919fd2c7b11f6ce246425d657e3b93dfb919a0b6fe4730dc5d9fee0d2a"
+
+[[files]]
+file = "overrides/config/fancymenu/menu_identifiers.db"
+hash = "003a1c89846741e0eb9475089d4ed653896fd08e0b994667fae452b4ad894a72"
+
+[[files]]
+file = "overrides/config/fancymenu/minecraftwindow/icons/icon16x16.png"
+hash = "741432b04a9712d13111f550d680db1cb2c8ba3001af4001db843a0db7bf3626"
+
+[[files]]
+file = "overrides/config/fancymenu/minecraftwindow/icons/icon32x32.png"
+hash = "51712c923fc46b6f60cce498b2fbdf730d593307bbfcfcfe8670dd512ee113fd"
+
+[[files]]
+file = "overrides/config/fancymenu/options.txt"
+hash = "632063489559f1c15cbe2d76385b76bb920a0038f388d493bbf7672dfedd2259"
+
+[[files]]
+file = "overrides/config/fancymenu/slideshows/ardacraft/images/1.png"
+hash = "e67d15c91b544596da18cd3ee4129a28ad8697b3404ac92c7f816de032a41794"
+
+[[files]]
+file = "overrides/config/fancymenu/slideshows/ardacraft/images/2.png"
+hash = "8acc5c380d8883dfd496a6998e9ac5bca6ee88efde8828b006d542698b5fdc0c"
+
+[[files]]
+file = "overrides/config/fancymenu/slideshows/ardacraft/images/2023-01.jpg"
+hash = "231dcce6a66b9f8bb03b421b6dff9b89290cb206dc94f57cb5c20c43def2cd0f"
+
+[[files]]
+file = "overrides/config/fancymenu/slideshows/ardacraft/images/2024-06-28_03.25.58.png"
+hash = "017c18a4875871530cb15875c6b96e75c975b5132093b8cc795eebae74250600"
+
+[[files]]
+file = "overrides/config/fancymenu/slideshows/ardacraft/images/3.png"
+hash = "fdd03a93f0c9e087db2e362a628b964beb36562f830b7cb2b60bfedfcbbc3c4f"
+
+[[files]]
+file = "overrides/config/fancymenu/slideshows/ardacraft/images/4.png"
+hash = "5eff9a0b37535c6fd9018f6c5086c203617de604116ca1ab10c35ad7ec21f416"
+
+[[files]]
+file = "overrides/config/fancymenu/slideshows/ardacraft/images/5.png"
+hash = "a653c415bedea4717e27aff77de192fe4701e375ae7c9729fd2ef41bb5d1aee5"
+
+[[files]]
+file = "overrides/config/fancymenu/slideshows/ardacraft/images/BarrowDownsMenu.png"
+hash = "31777abe3ea5921c0168f02d9390916717c50e3a770fd6b7e1a17ebce80c6c08"
+
+[[files]]
+file = "overrides/config/fancymenu/slideshows/ardacraft/images/BombadilMenu.png"
+hash = "99be977f0f67a03839f1d4954901ac09404cc48de0aa6056aea93fbeaa5d9029"
+
+[[files]]
+file = "overrides/config/fancymenu/slideshows/ardacraft/images/EBY0GNWXsAUkaGj.jpg"
+hash = "6f4c789258c7e9ff2ec7e1e15a02584f8f444ff99bec67ccfc27e7ed407ddb8c"
+
+[[files]]
+file = "overrides/config/fancymenu/slideshows/ardacraft/images/HomepageLandJourney-ArdaCraft.png"
+hash = "aa65854ca9ab32d51386782c446edf8a88774e7e8d4f049cab065708ba420d23"
+
+[[files]]
+file = "overrides/config/fancymenu/slideshows/ardacraft/images/IAEN.png"
+hash = "f756e66262f27191b05269cde65f96e2bf54d5085e0a2e5b59857377980cc08e"
+
+[[files]]
+file = "overrides/config/fancymenu/slideshows/ardacraft/images/MedulseldEdorasMenu.png"
+hash = "dd740400b0ff6c1ecc0dab547d609e59f2e55c7d1c93998843f59483f8849ae6"
+
+[[files]]
+file = "overrides/config/fancymenu/slideshows/ardacraft/images/WMINT.png"
+hash = "c8af5292d65e3c9a505d60ca21a7654b22c727bd0816875f09e3a9ed697de797"
+
+[[files]]
+file = "overrides/config/fancymenu/slideshows/ardacraft/images/Weathertop.png"
+hash = "e315342de4969e1cd1cb018c4f93ac7c54be16bc68497be1c0e56d108a8c58a9"
+
+[[files]]
+file = "overrides/config/fancymenu/slideshows/ardacraft/images/ab erebor.jpg"
+hash = "d963231f41814e3179b77a67cb5302415f01402d749b399b24d3df3441f6cede"
+
+[[files]]
+file = "overrides/config/fancymenu/slideshows/ardacraft/images/abc.png"
+hash = "4ff2f7ca79cb500acb48072f5bd797a8a2f69007f852ae2a5cfaa819e1b35f3d"
+
+[[files]]
+file = "overrides/config/fancymenu/slideshows/ardacraft/images/bcaras.png"
+hash = "1dc4b3e048dd8100b46e0815ad198dadc7d43489a571b6da85db1b95667ef4dc"
+
+[[files]]
+file = "overrides/config/fancymenu/slideshows/ardacraft/images/bdg.png"
+hash = "343e60284767872a59ee9ab5438cbcfb8d3a235b9494ecbfa82811ee8daff2da"
+
+[[files]]
+file = "overrides/config/fancymenu/slideshows/ardacraft/images/bisengard.png"
+hash = "ea3dccce01b008df8173b804a8ab3c4602e1916078d1b825953b492465e44a9e"
+
+[[files]]
+file = "overrides/config/fancymenu/slideshows/ardacraft/images/blues.png"
+hash = "cecfb8fb5e8512083ea8534564249d0caa65b75a69fef41d384913ef3c9b5b24"
+
+[[files]]
+file = "overrides/config/fancymenu/slideshows/ardacraft/images/boz_angle.png"
+hash = "e6acafd0e6e345f4d883a72525eb3a437ae0d037f28810401c245c824f3148f9"
+
+[[files]]
+file = "overrides/config/fancymenu/slideshows/ardacraft/images/brownlands.jpg"
+hash = "d54829ad4b65a6ee1fa2b72f3b0a3799cb17d5d8c4de486dbe814fa7d76fae1c"
+
+[[files]]
+file = "overrides/config/fancymenu/slideshows/ardacraft/images/caves.png"
+hash = "d011c06f534945fa95b4a7f92605da0f58825091bfe6a3f89d311940298abd4b"
+
+[[files]]
+file = "overrides/config/fancymenu/slideshows/ardacraft/images/dmach.png"
+hash = "94b0f0164808eb791c58660eddeabc0e9036d74cb8995d4fa7b87e1e148ec1f6"
+
+[[files]]
+file = "overrides/config/fancymenu/slideshows/ardacraft/images/dun1.png"
+hash = "9d8de0f106ba95c079e869f291836d16c340a3cabdaab37a1265e5ed9d74b0ae"
+
+[[files]]
+file = "overrides/config/fancymenu/slideshows/ardacraft/images/dunharrow.png"
+hash = "aa5cc5a11a8fedaf4efe9869f6b953ae75683342de4526dbff823a287bae2922"
+
+[[files]]
+file = "overrides/config/fancymenu/slideshows/ardacraft/images/ea.png"
+hash = "cbdd15b981e0156a67a16884ec90b7f0ad6cae96912e6e525b38923d41703dca"
+
+[[files]]
+file = "overrides/config/fancymenu/slideshows/ardacraft/images/edoras.jpg"
+hash = "99ea68f344f349b2a7ca5e04687f1c55df46202169d05063a10a6cfcbdf5147f"
+
+[[files]]
+file = "overrides/config/fancymenu/slideshows/ardacraft/images/fb2024-04-23_22.23.00.png"
+hash = "05e1a98dcd2c3b80886afcdd6aa9ec56485c6863212706fe04ce89f400821fc6"
+
+[[files]]
+file = "overrides/config/fancymenu/slideshows/ardacraft/images/fcarasgate.png"
+hash = "1bb6dfa1cd17ae16d579885fd381cedfbae3c202196533fccd676a844f5829fb"
+
+[[files]]
+file = "overrides/config/fancymenu/slideshows/ardacraft/images/forest.png"
+hash = "d1a539858dc4e843c11ea9d1cb4783fc3e2577bc7601a8e62f7048c94aa978f3"
+
+[[files]]
+file = "overrides/config/fancymenu/slideshows/ardacraft/images/galadriel.png"
+hash = "88f0df0b1e767df74496082668807f6bb2c48103df3a3be32c0214a7635c6d96"
+
+[[files]]
+file = "overrides/config/fancymenu/slideshows/ardacraft/images/gmoria.jpg"
+hash = "5b3f94ef5d2f28e56938a1373c5be92631a848819ae3391fab1796e3ea19abfb"
+
+[[files]]
+file = "overrides/config/fancymenu/slideshows/ardacraft/images/gooba_2.png"
+hash = "96c0fd9b684563cdd3746064640910ac34d6ea4823086dc3426380693d447830"
+
+[[files]]
+file = "overrides/config/fancymenu/slideshows/ardacraft/images/hashire.jpg"
+hash = "3b9367c9418361db17c89d9a7d9bcc70ff45b7d2c129bc6633deabaee1771a53"
+
+[[files]]
+file = "overrides/config/fancymenu/slideshows/ardacraft/images/hobbit.jpg"
+hash = "b8a5689278b1ccea6bd0426127e7f2086f1cb521e1054b5baf22d4596e059d22"
+
+[[files]]
+file = "overrides/config/fancymenu/slideshows/ardacraft/images/hui.jpg"
+hash = "09fec7bfb750548e27c27d818cc938441ebc668d6aba3ef47f30ffe0534b10fc"
+
+[[files]]
+file = "overrides/config/fancymenu/slideshows/ardacraft/images/lurh.png"
+hash = "2b0f39b7027b8924bccbfa7242d92798349d62ccefcc0f6f554a402914a7ba55"
+
+[[files]]
+file = "overrides/config/fancymenu/slideshows/ardacraft/images/noblehouse.png"
+hash = "5dfb07f50ad47d9ab5ffe9c66e1b6a8d8c2df486912c3dbe641a9e926fce2339"
+
+[[files]]
+file = "overrides/config/fancymenu/slideshows/ardacraft/images/pFNwGrHNXsAQNYjN.jpg"
+hash = "d7deab11351540c8e657eaf9afdbb8933a8e6e2f5dfc80453bab5a3efb57c404"
+
+[[files]]
+file = "overrides/config/fancymenu/slideshows/ardacraft/images/prancingpony.png"
+hash = "bca27ac16209e79f9d564909cd7cd63023e9336fd568a158af3b15af3f3c816f"
+
+[[files]]
+file = "overrides/config/fancymenu/slideshows/ardacraft/images/rkthorin.png"
+hash = "f47b58d1012c76a1cfdb31ed622b233bab88b1098fe7298dcd03b13319dbd5c9"
+
+[[files]]
+file = "overrides/config/fancymenu/slideshows/ardacraft/images/rohan.png"
+hash = "938eee877eb75be3162658b2fed0ef9e8e575504f16cb397a89af4e9ebb85c82"
+
+[[files]]
+file = "overrides/config/fancymenu/slideshows/ardacraft/images/rohan2.jpg"
+hash = "857930cb6598e2682029317fededcc762b1c2ff9571fb04f3759fcc187852bc8"
+
+[[files]]
+file = "overrides/config/fancymenu/slideshows/ardacraft/images/scary.png"
+hash = "4a2f5e8fb23360755e9290e1512e994f35fb1caf521c88b1d8b215774dbfb9d4"
+
+[[files]]
+file = "overrides/config/fancymenu/slideshows/ardacraft/images/zbree.png"
+hash = "9c150c102fd16eab8efcfc9b36e56f4b871b4f0b7be761f583495fc6f5518434"
+
+[[files]]
+file = "overrides/config/fancymenu/slideshows/ardacraft/images/zedJWO.jpg"
+hash = "648ef2eebfcb293454628108a890426de5d26989f01ea84bd6a781293b150fb3"
+
+[[files]]
+file = "overrides/config/fancymenu/slideshows/ardacraft/properties.txt"
+hash = "d269f0133cc2e9b0c67ff2282cc37285a07318edecf594b35788aaadbf476aa3"
+
+[[files]]
+file = "overrides/config/fancymenu/ui_themes/dark.json"
+hash = "43ac9bee88f1a4c9b66fee0d4b6fcec14a52feab46bf803928aabed96f510cc9"
+
+[[files]]
+file = "overrides/config/fancymenu/ui_themes/light.json"
+hash = "6954379d658fdf496f162792a3244f0f08635858ed4b0553a718a7ef63b8a620"
+
+[[files]]
+file = "overrides/config/fancymenu/user_variables.db"
+hash = "3d7d4cda73d6bde134a568ccbe4e8d2e7fbe701570012b71fa45acdb2258c823"
+
+[[files]]
+file = "overrides/config/ferritecore.mixin.properties"
+hash = "a2091a291309db8920c8a80e913ed31c24c29687d8cd25ac18076ad85a90ddb8"
+
+[[files]]
+file = "overrides/config/flywheel.json"
+hash = "aa84b01d7366b116d590d52adff2acef9212f9395eb53e9db9fa9090c6a9b02d"
+
+[[files]]
+file = "overrides/config/forgeconfigapiport.toml"
+hash = "300b866a6251887cbd30b18438e123b2fa524315edbf8e2996a01acb4ecac91e"
+
+[[files]]
+file = "overrides/config/forgottengraves.json"
+hash = "2b1fbda411f126073b5cdc64684536f7b2cb9d62adf71a5070505eff9897dd75"
+
+[[files]]
+file = "overrides/config/fsb-interop.json"
+hash = "1966f13d3dbb8a4e9ef746f08468fc5b583bb5dc82ce187cacbf60da0cf2e585"
+
+[[files]]
+file = "overrides/config/immediatelyfast.json"
+hash = "a9192ef0a7d0ba3eb05a8a7a33b1f001d55c433ee01d9c670c8f9c3fcac0640c"
+
+[[files]]
+file = "overrides/config/immersive_melodies.json"
+hash = "72ba7262061fd04b913780cebb1e43983893f0fcbc62ba46cff8c1b8f4a70a85"
+
+[[files]]
+file = "overrides/config/indium-renderer.properties"
+hash = "0d3488d0c865e18e5f727b0896d417b5394b86410414d745da33d798beaf39f6"
+
+[[files]]
+file = "overrides/config/iris.properties"
+hash = "e75f6a70600ad17fe738a3566614b3e3850b7f6df849c43119d46273556f3764"
+
+[[files]]
+file = "overrides/config/journeymap-server.json"
+hash = "2b77ff82093eb3698b79b2b953806855d1880d414544a8158f41b028d8e293ca"
+
+[[files]]
+file = "overrides/config/kiwi-client.yaml"
+hash = "7c7638d7e5db3076b78d3258fcb2dea7e25bb78b0308f43a8fa9ccc5f8ec4001"
+
+[[files]]
+file = "overrides/config/kiwi-common.yaml"
+hash = "1488107dd37c8f05131e65c5ad9adda7b674b08a8c0d639752d53b7926db2282"
+
+[[files]]
+file = "overrides/config/konkrete/locals/de_de.local"
+hash = "79a34cfd15c2d9c06498dc221be79279507d9b57666cd44f8d2c2cf95d3582ef"
+
+[[files]]
+file = "overrides/config/konkrete/locals/en_us.local"
+hash = "fdf1864fd049b3f1b9af1f8db6c5125a627be7d06a451c778da3329843d3c39a"
+
+[[files]]
+file = "overrides/config/konkrete/locals/pl_pl.local"
+hash = "d38a7776e362e4de6082078d803c1c9358d9d40526edfe4bdfd29c552aef76d8"
+
+[[files]]
+file = "overrides/config/konkrete/locals/pt_br.local"
+hash = "dca55a2792451b31424cd5c24037141ec57cdca51955d062dd908fa9ca6a3e9c"
+
+[[files]]
+file = "overrides/config/languagereload.json"
+hash = "cc04412b4d4a11c965b551b23300a07a1c6e4eafbf62e750bbcb2a749b9d474c"
+
+[[files]]
+file = "overrides/config/lithium.properties"
+hash = "76765e8e5ff8e927d80beb0739aababcf36e7babfd94262f2afece256cc5cd2e"
+
+[[files]]
+file = "overrides/config/lodestone-client.toml"
+hash = "8ecfe7bca1cc7071448993c5812329d59f72d713c0b3343b188e12ebe9be81e8"
+
+[[files]]
+file = "overrides/config/mapfrontiers-client.toml"
+hash = "79599f608ada8eeb36c31111704154d032d99f946522b13d6f7fa97c469ac207"
+
+[[files]]
+file = "overrides/config/midnightlib.json"
+hash = "b14c45c6447f9ee5474d70784a2ef96731abbeca1e92485b7599e76e9dce1444"
+
+[[files]]
+file = "overrides/config/modernfix-mixins.properties"
+hash = "b243252386956f2553cbfbe931194df17d980376bfdcd56fd915bffc4d620d91"
+
+[[files]]
+file = "overrides/config/modmenu.json"
+hash = "748cb550ed31f0d7f2a8faf26cd0c659826ae10cfabc4a89eee7d32eed98f157"
+
+[[files]]
+file = "overrides/config/naturalist.json"
+hash = "24e5ae46ed559982b771d246709d855caeeb55e837df1bf131e91fd5b6f3a42f"
+
+[[files]]
+file = "overrides/config/noclip.json5"
+hash = "d5913b69a0664db274178b7df7ea7f337c0cc278dbd052a541ab1ea446d50d77"
+
+[[files]]
+file = "overrides/config/notenoughanimations.json"
+hash = "f734f35399f949a79b29328d6d0398027a5e5c4f5ffa15f35a44c8054b54da34"
+
+[[files]]
+file = "overrides/config/origins_server.json"
+hash = "02ca216fe0612108a47188ec747b76357315f3186699653063cddf965c33929a"
+
+[[files]]
+file = "overrides/config/packetfixer.properties"
+hash = "814a8db58ca8db65ba1b44b5993aedc98c2d75c0a6e1d852d30ae73cfc86c750"
+
+[[files]]
+file = "overrides/config/pal.properties"
+hash = "a0b4451351cf56c9c1ab110f66f371f7d32515db09e866443ec3f7a7099f3152"
+
+[[files]]
+file = "overrides/config/passablefoliage-common.yaml"
+hash = "12c2ff6376fd4aafbf04fd173d229a42bb9fa0d71edf3c701f786e2917f367d1"
+
+[[files]]
+file = "overrides/config/patchouli.json5"
+hash = "f025fe9200c89f808a4459ce10b332a2f763c3d6d9622de61b10278e54161117"
+
+[[files]]
+file = "overrides/config/patchoulibutton.json5"
+hash = "88522022a701da52ff9fbf36d4c063cf60eef80f4aac46e3d6ed0a294c66aa00"
+
+[[files]]
+file = "overrides/config/pehkui/config.json"
+hash = "03566f5b722d000ee785cccf8a55651c75c7bc00fea16d2538899578188ebb32"
+
+[[files]]
+file = "overrides/config/polymorph-integrations.toml"
+hash = "f3d96811394c9360cc3a4cc671e3ad15625e99701cdbfdae7dbc9d2fbfd5d428"
+
+[[files]]
+file = "overrides/config/power_config.json5"
+hash = "4a0492a46ebe8c5870fccbd5451cfff5a6557779ae34270e33620024b0896245"
+
+[[files]]
+file = "overrides/config/presencefootsteps/updater.json"
+hash = "1e7c61df09c105e1eeca8cf3dcbdfeb976700e9904bcb3983fc7791adb7fad2e"
+
+[[files]]
+file = "overrides/config/presencefootsteps/userconfig.json"
+hash = "77a3b4fefd3176ec7d44c356808d2a4450d2c441020086708fab6cb3cb278f28"
+
+[[files]]
+file = "overrides/config/removeblockoutline.properties"
+hash = "e2ce60fa9b16eeb8bebbff51d4acf5d9fab793b9ed6623cdf08e2564e34b5fe5"
+
+[[files]]
+file = "overrides/config/skinlayers.json"
+hash = "79232c5ce601d74897a76bcc41819ea3ddd9fe5b44a840a019536d4f6e219f72"
+
+[[files]]
+file = "overrides/config/smallships-client.toml"
+hash = "581fdd68d0bacbe4fb80c8270428ce7b580e649db171063a2e3b788e4a6a385a"
+
+[[files]]
+file = "overrides/config/smallships-common.toml"
+hash = "53e525dcb090cee4290c64650a228c26cd9d4c1d6cab5273f28e81de30e3e598"
+
+[[files]]
+file = "overrides/config/sodium-extra-options.json"
+hash = "37df56a42ff66d7f538a4e72de84ec4bfb84d94380cda967fd22ef540ddaac64"
+
+[[files]]
+file = "overrides/config/sodium-extra.properties"
+hash = "a2f1b47c1eaa119ab34727f1d43c2506cb3d7f17ba8fb4efb49e20c8e0b58e70"
+
+[[files]]
+file = "overrides/config/sodium-fingerprint.json"
+hash = "e8cdd915ed20d4750238dd1ae442f57a4047014e64d13b71ef66292b0428f623"
+
+[[files]]
+file = "overrides/config/sodium-mixins.properties"
+hash = "8939df3a10627cf3b9a3cc0e2824337923e9a26d11e60f5a1f7c0cfbd171a574"
+
+[[files]]
+file = "overrides/config/sodium-options.json"
+hash = "fc840bf0fc00c95bbb64092121b4c94a8db59213c8decd9f0f9a433a059bbde1"
+
+[[files]]
+file = "overrides/config/sodiumextras-client.toml"
+hash = "3cba35f7720c7c27fc1e45419cc457c7e0c8b331719c13234ec79fed25718739"
+
+[[files]]
+file = "overrides/config/sound_physics_remastered/allowed_sounds.properties"
+hash = "0ecaa4f12204debd547bad28a5e1f386965594f4f507649278bd3b3764cf7109"
+
+[[files]]
+file = "overrides/config/sound_physics_remastered/occlusion.properties"
+hash = "44ebac3e641a4803c83a661c79ae8bb730b540da93eb9b47e586a5a7512f218f"
+
+[[files]]
+file = "overrides/config/sound_physics_remastered/reflectivity.properties"
+hash = "ac44d55e907dd90824c5f7d20c979880927dd4237ccfadce1026ac142cc681e9"
+
+[[files]]
+file = "overrides/config/sound_physics_remastered/soundphysics.properties"
+hash = "3c08d743e52b572972ef84b3c3acabd398718594304ff61c40c3be4a1f3191af"
+
+[[files]]
+file = "overrides/config/spell_power/attributes.json"
+hash = "4d77e8a4f77752c328a602e6dd0f0d8a5d37fc6a7882e30e1f595b079447a86c"
+
+[[files]]
+file = "overrides/config/spell_power/enchantments.json"
+hash = "70a86e07d3a2038d202e8a64b060cf38385430aa029afd56fa5e833872cf19b7"
+
+[[files]]
+file = "overrides/config/terrablender.toml"
+hash = "cd5428966b529748e9ba8785cf7a01d19db50ddb3f7f257226baed6defc54af5"
+
+[[files]]
+file = "overrides/config/transition.json"
+hash = "6c0060c7301372bbc414f86a139b383e34fb620f0621badd71bb19efc3f26767"
+
+[[files]]
+file = "overrides/config/travelersbackpack.json5"
+hash = "e919d85306df46058d9ac27f4e74993063fd756b81ee1b1d710e132259552ea0"
+
+[[files]]
+file = "overrides/config/trender.json"
+hash = "fe0bed19bd0927b3d519816c73378730689080a8f07e66a6167c266ffde29dd2"
+
+[[files]]
+file = "overrides/config/vinery.json"
+hash = "8f1ff306405c71e61c3bb830b3fbbc195f761cbf89418fd5a339f3f512ee54c5"
+
+[[files]]
+file = "overrides/config/voicechat/category-volumes.properties"
+hash = "94c1c4f70e5b995fbd71e86d4fa646030437fecae0685875b560a55fbd0d0e56"
+
+[[files]]
+file = "overrides/config/voicechat/player-volumes.properties"
+hash = "0332261861a5ace96f503e85b0d48a8df74ea6c2f3545cd229543a6afb55ad96"
+
+[[files]]
+file = "overrides/config/voicechat/translations.properties"
+hash = "693643b1d393cbb3ea7f062afc4474fcd66e4036c4f8d7c056434979cbf512d1"
+
+[[files]]
+file = "overrides/config/voicechat/username-cache.json"
+hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+
+[[files]]
+file = "overrides/config/voicechat/voicechat-client.properties"
+hash = "06afa9673d7172a631ed2819cb9be4654440f2caf7b8566461f67facbfb17678"
+
+[[files]]
+file = "overrides/config/voicechat/voicechat-server.properties"
+hash = "5f8daa33aee02daac07d65cfdc6edebdb1d0ff94991880caf2ade0618e3f096f"
+
+[[files]]
+file = "overrides/config/waila/blacklist.json"
+hash = "3ad81eaa9397d1ea4fb2e8fce84f6c8de4b3144cb87ed354772332cfc5bead14"
+
+[[files]]
+file = "overrides/config/waila/extra/energy_blacklist.json"
+hash = "148e3fb0fbd266cac17934293a3f1c4744abe97757b9e31fc3175a6db4ad04ff"
+
+[[files]]
+file = "overrides/config/waila/extra/fluid_blacklist.json"
+hash = "f815ac439c124e29251f2afbad19fe85c36c0b2fe746273faa138c2ec24916eb"
+
+[[files]]
+file = "overrides/config/waila/extra/item_blacklist.json"
+hash = "6df5a4534a0afb2c269522fada7234a42f11e8f9d7205d4f19d929d8f7ef0125"
+
+[[files]]
+file = "overrides/config/waila/extra/progress_blacklist.json"
+hash = "d7df9ec8da2ce7b460b4a236696ec21f80bfeaf8700fa3573458ce83e97a7bf9"
+
+[[files]]
+file = "overrides/config/waila/plugin_toggle.json"
+hash = "6e444acfe0ccee9370a094db0caedb7a3f87a0a97bd2da10f565458ba7f957a9"
+
+[[files]]
+file = "overrides/config/waila/waila.json"
+hash = "5f590261736d21d764ba5df2495533af65b218d4983290b4d2f6b967abc2369a"
+
+[[files]]
+file = "overrides/config/waila/waila_plugins.json"
+hash = "a4355b72a985de8bbc6f0ecca0c4e255238e76aa744208a70bc8b4d90d2c9c7f"
+
+[[files]]
+file = "overrides/config/watut-client.toml"
+hash = "1ad8015d984926deaba0a085a38486c69e07ae0e8867b6b73d31f4e688ceb8df"
+
+[[files]]
+file = "overrides/config/watut-common.toml"
+hash = "4e916f8368d68b41ed164121046d5cfd555141e24c6856b2fd6c5b3498b554fa"
+
+[[files]]
+file = "overrides/config/watut-item-arm-adjustments.json"
+hash = "543e09f71cda1d97d238ac4150e43e50868cf781027c88d68fc714f261d88982"
+
+[[files]]
+file = "overrides/config/watut-server.toml"
+hash = "3b108e129046bcaee5520553e70832e773a6b7768cb66ca28b563b0970558e0a"
+
+[[files]]
+file = "overrides/config/weaponmaster_ydm_config.properties"
+hash = "a3add48a466e1d87f5d3ee6d6fdef170df75aa87bee90198aeb2de200f4e9990"
+
+[[files]]
+file = "overrides/config/weather-changer.json"
+hash = "2f531ac735bfe12de0b35d1f7ca077300279fae631cec1030a52e0a5431fec9d"
+
+[[files]]
+file = "overrides/config/worldedit/.archive-unpack/2e1dd752/.unpack_finished"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "overrides/config/worldedit/.archive-unpack/2e1dd752/af/strings.json"
+hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+
+[[files]]
+file = "overrides/config/worldedit/.archive-unpack/2e1dd752/ar/strings.json"
+hash = "29f9066cad68d934ba7b9740b12fa39b1cfb7bd0de12daee71b3edd6bd3a52be"
+
+[[files]]
+file = "overrides/config/worldedit/.archive-unpack/2e1dd752/ast/strings.json"
+hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+
+[[files]]
+file = "overrides/config/worldedit/.archive-unpack/2e1dd752/az/strings.json"
+hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+
+[[files]]
+file = "overrides/config/worldedit/.archive-unpack/2e1dd752/ba/strings.json"
+hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+
+[[files]]
+file = "overrides/config/worldedit/.archive-unpack/2e1dd752/be/strings.json"
+hash = "f02d23b0625268b27cad869b781b7cc3a1ecb127ac2f05e6f10dede979f4e281"
+
+[[files]]
+file = "overrides/config/worldedit/.archive-unpack/2e1dd752/bg/strings.json"
+hash = "a781882ebd1e9cd970516ccf41504f7b524aced8bb930ac3dc48ec2e08b144c1"
+
+[[files]]
+file = "overrides/config/worldedit/.archive-unpack/2e1dd752/br-FR/strings.json"
+hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+
+[[files]]
+file = "overrides/config/worldedit/.archive-unpack/2e1dd752/brb/strings.json"
+hash = "23660bb35fb3cc7fef1b2036a1ee72df71d7da429a3ea38c7d397dba7a618eec"
+
+[[files]]
+file = "overrides/config/worldedit/.archive-unpack/2e1dd752/bs/strings.json"
+hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+
+[[files]]
+file = "overrides/config/worldedit/.archive-unpack/2e1dd752/ca/strings.json"
+hash = "6864f83a4a35f39b5d8b4559fc911236815f6eadf80aefae58e8ac626e171129"
+
+[[files]]
+file = "overrides/config/worldedit/.archive-unpack/2e1dd752/cs/strings.json"
+hash = "7ffd4ea9112d6036b45b3414702c8efffd9089760c99690d8a4cb3160e25c456"
+
+[[files]]
+file = "overrides/config/worldedit/.archive-unpack/2e1dd752/cy/strings.json"
+hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+
+[[files]]
+file = "overrides/config/worldedit/.archive-unpack/2e1dd752/da/strings.json"
+hash = "21d10422b111110bc53ad6d1c25db1855b5c5cb555f6fb0aeefe6d85e8bd0082"
+
+[[files]]
+file = "overrides/config/worldedit/.archive-unpack/2e1dd752/de-AT/strings.json"
+hash = "96d13db817f0473a15ddccb96bb4a9c4f53d925ec75434516796801fe0704147"
+
+[[files]]
+file = "overrides/config/worldedit/.archive-unpack/2e1dd752/de-CH/strings.json"
+hash = "a5a87388a0c615ec598abde35e0b2baee3d8ba2f1d9ac9096e221021cf00e625"
+
+[[files]]
+file = "overrides/config/worldedit/.archive-unpack/2e1dd752/de/strings.json"
+hash = "96d13db817f0473a15ddccb96bb4a9c4f53d925ec75434516796801fe0704147"
+
+[[files]]
+file = "overrides/config/worldedit/.archive-unpack/2e1dd752/el/strings.json"
+hash = "2fb424866a5e5fb34b3bf78d764ab8a728facc745fac0a423e9ea1c22886e550"
+
+[[files]]
+file = "overrides/config/worldedit/.archive-unpack/2e1dd752/en-AU/strings.json"
+hash = "3171f7b41372ca9d2a8e7f6ac5a79e8418e8994b3364de54b76133b1c46da8c6"
+
+[[files]]
+file = "overrides/config/worldedit/.archive-unpack/2e1dd752/en-CA/strings.json"
+hash = "53010fa94d238a2ec02167e845e7cda679dc7454841e1abc26fda9717fd77eff"
+
+[[files]]
+file = "overrides/config/worldedit/.archive-unpack/2e1dd752/en-NZ/strings.json"
+hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+
+[[files]]
+file = "overrides/config/worldedit/.archive-unpack/2e1dd752/en-PT/strings.json"
+hash = "817dda2b6e3f67ef18f2a5b7cbcbe55765dc3dc29d2b75489315af51386dda2b"
+
+[[files]]
+file = "overrides/config/worldedit/.archive-unpack/2e1dd752/en-UD/strings.json"
+hash = "26a269a21ece7060685b112fdb7076c613e967621c16234abc22ecf763983983"
+
+[[files]]
+file = "overrides/config/worldedit/.archive-unpack/2e1dd752/enp/strings.json"
+hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+
+[[files]]
+file = "overrides/config/worldedit/.archive-unpack/2e1dd752/eo/strings.json"
+hash = "5386905f26b174368e7c4bde89dc3deeb74e88e9428d071e3536fe5debce8367"
+
+[[files]]
+file = "overrides/config/worldedit/.archive-unpack/2e1dd752/es-AR/strings.json"
+hash = "70734f2b539e6a28ff355369944d8461247a256e67f0eae0953b0dcb6c7b6671"
+
+[[files]]
+file = "overrides/config/worldedit/.archive-unpack/2e1dd752/es-CL/strings.json"
+hash = "a75c51c490cd730c01973fb97bdb9e67c3339cdc646a4f1b5eb34f7cd6efac91"
+
+[[files]]
+file = "overrides/config/worldedit/.archive-unpack/2e1dd752/es-ES/strings.json"
+hash = "1415be2784a14c5f3e61efb81d4807d662fbce8a60f917ea617656fcdd89005d"
+
+[[files]]
+file = "overrides/config/worldedit/.archive-unpack/2e1dd752/es-MX/strings.json"
+hash = "1415be2784a14c5f3e61efb81d4807d662fbce8a60f917ea617656fcdd89005d"
+
+[[files]]
+file = "overrides/config/worldedit/.archive-unpack/2e1dd752/es-UY/strings.json"
+hash = "1415be2784a14c5f3e61efb81d4807d662fbce8a60f917ea617656fcdd89005d"
+
+[[files]]
+file = "overrides/config/worldedit/.archive-unpack/2e1dd752/es-VE/strings.json"
+hash = "5131074a39dcbec28ff026254790a46b5894b5f1322ad0f018cf7a2b0e9e9dec"
+
+[[files]]
+file = "overrides/config/worldedit/.archive-unpack/2e1dd752/et/strings.json"
+hash = "07ceb78ba56ca557e0c42d8540096049018b9653f793362eb17c24b27e57863c"
+
+[[files]]
+file = "overrides/config/worldedit/.archive-unpack/2e1dd752/eu/strings.json"
+hash = "371ea302982cbdd74dcb758f1c946c05108e5e5817dd064d625794012c73caa2"
+
+[[files]]
+file = "overrides/config/worldedit/.archive-unpack/2e1dd752/fa/strings.json"
+hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+
+[[files]]
+file = "overrides/config/worldedit/.archive-unpack/2e1dd752/fi/strings.json"
+hash = "048c25c056481c5d019ce0a5477f4a347d8fa7f4caaf3581ccbcd9d11928466b"
+
+[[files]]
+file = "overrides/config/worldedit/.archive-unpack/2e1dd752/fil/strings.json"
+hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+
+[[files]]
+file = "overrides/config/worldedit/.archive-unpack/2e1dd752/fo/strings.json"
+hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+
+[[files]]
+file = "overrides/config/worldedit/.archive-unpack/2e1dd752/fr-CA/strings.json"
+hash = "82841e2040ea1ca049ccb27edca063d4faf7c676fd27e96eaaaefa8eb1987753"
+
+[[files]]
+file = "overrides/config/worldedit/.archive-unpack/2e1dd752/fr/strings.json"
+hash = "fbece73db414fd97f1df9b8e0e48e420622ea474f3da2ba6fdf9e3d4b297fa20"
+
+[[files]]
+file = "overrides/config/worldedit/.archive-unpack/2e1dd752/fra-DE/strings.json"
+hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+
+[[files]]
+file = "overrides/config/worldedit/.archive-unpack/2e1dd752/fy-NL/strings.json"
+hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+
+[[files]]
+file = "overrides/config/worldedit/.archive-unpack/2e1dd752/ga-IE/strings.json"
+hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+
+[[files]]
+file = "overrides/config/worldedit/.archive-unpack/2e1dd752/gd/strings.json"
+hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+
+[[files]]
+file = "overrides/config/worldedit/.archive-unpack/2e1dd752/gl/strings.json"
+hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+
+[[files]]
+file = "overrides/config/worldedit/.archive-unpack/2e1dd752/got/strings.json"
+hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+
+[[files]]
+file = "overrides/config/worldedit/.archive-unpack/2e1dd752/gv/strings.json"
+hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+
+[[files]]
+file = "overrides/config/worldedit/.archive-unpack/2e1dd752/haw/strings.json"
+hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+
+[[files]]
+file = "overrides/config/worldedit/.archive-unpack/2e1dd752/he/strings.json"
+hash = "52ab4a3612c7d4249323514744af8182ec5db7939c0cd12c7d2734c8ddf40c01"
+
+[[files]]
+file = "overrides/config/worldedit/.archive-unpack/2e1dd752/hi/strings.json"
+hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+
+[[files]]
+file = "overrides/config/worldedit/.archive-unpack/2e1dd752/hr/strings.json"
+hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+
+[[files]]
+file = "overrides/config/worldedit/.archive-unpack/2e1dd752/hu/strings.json"
+hash = "6edfb7c4be39c6f9528f0bc1b970c349423057db773449baa233ab1bb3f41159"
+
+[[files]]
+file = "overrides/config/worldedit/.archive-unpack/2e1dd752/hy-AM/strings.json"
+hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+
+[[files]]
+file = "overrides/config/worldedit/.archive-unpack/2e1dd752/id/strings.json"
+hash = "d449f0bce53d87479d23cd4dfd4e4454e49234317482af9a7ff7a95cb86ab351"
+
+[[files]]
+file = "overrides/config/worldedit/.archive-unpack/2e1dd752/ido/strings.json"
+hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+
+[[files]]
+file = "overrides/config/worldedit/.archive-unpack/2e1dd752/ig/strings.json"
+hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+
+[[files]]
+file = "overrides/config/worldedit/.archive-unpack/2e1dd752/is/strings.json"
+hash = "57cfc41f9f82b595a9a4cf77369a6503d3c354f0bfe8cb58e66382fa9836c6a2"
+
+[[files]]
+file = "overrides/config/worldedit/.archive-unpack/2e1dd752/it/strings.json"
+hash = "5def16a9312a805f805c2692910ede804e40f5a245afe022af01563f5f513eeb"
+
+[[files]]
+file = "overrides/config/worldedit/.archive-unpack/2e1dd752/ja/strings.json"
+hash = "4960e8a638acfec61a0ff54cb689b3e291b4d79d744b3a869472516df6d91652"
+
+[[files]]
+file = "overrides/config/worldedit/.archive-unpack/2e1dd752/jbo/strings.json"
+hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+
+[[files]]
+file = "overrides/config/worldedit/.archive-unpack/2e1dd752/ka/strings.json"
+hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+
+[[files]]
+file = "overrides/config/worldedit/.archive-unpack/2e1dd752/kab/strings.json"
+hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+
+[[files]]
+file = "overrides/config/worldedit/.archive-unpack/2e1dd752/kk/strings.json"
+hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+
+[[files]]
+file = "overrides/config/worldedit/.archive-unpack/2e1dd752/kn/strings.json"
+hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+
+[[files]]
+file = "overrides/config/worldedit/.archive-unpack/2e1dd752/ko/strings.json"
+hash = "fba8c67f50effd7f50a5250289f1be9b72432d8ce3f9bd28d1dd5066bad518cb"
+
+[[files]]
+file = "overrides/config/worldedit/.archive-unpack/2e1dd752/ksh/strings.json"
+hash = "96d13db817f0473a15ddccb96bb4a9c4f53d925ec75434516796801fe0704147"
+
+[[files]]
+file = "overrides/config/worldedit/.archive-unpack/2e1dd752/kw/strings.json"
+hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+
+[[files]]
+file = "overrides/config/worldedit/.archive-unpack/2e1dd752/la-LA/strings.json"
+hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+
+[[files]]
+file = "overrides/config/worldedit/.archive-unpack/2e1dd752/lb/strings.json"
+hash = "c13f2e57ec52d87e65580202e32abd12b7880650c38585c0ec2cd484d3767a8a"
+
+[[files]]
+file = "overrides/config/worldedit/.archive-unpack/2e1dd752/li/strings.json"
+hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+
+[[files]]
+file = "overrides/config/worldedit/.archive-unpack/2e1dd752/lol/strings.json"
+hash = "38b038c0cb9f04ae458595d8abe90688582efe916c22c7de0f5bd1c9d13af7f3"
+
+[[files]]
+file = "overrides/config/worldedit/.archive-unpack/2e1dd752/lt/strings.json"
+hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+
+[[files]]
+file = "overrides/config/worldedit/.archive-unpack/2e1dd752/lv/strings.json"
+hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+
+[[files]]
+file = "overrides/config/worldedit/.archive-unpack/2e1dd752/mi/strings.json"
+hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+
+[[files]]
+file = "overrides/config/worldedit/.archive-unpack/2e1dd752/mk/strings.json"
+hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+
+[[files]]
+file = "overrides/config/worldedit/.archive-unpack/2e1dd752/mn/strings.json"
+hash = "7fecfa7b0c24f535bbb0ef2d25edd1cbf3e0eef6c69bb08d75da5e9385095bda"
+
+[[files]]
+file = "overrides/config/worldedit/.archive-unpack/2e1dd752/moh/strings.json"
+hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+
+[[files]]
+file = "overrides/config/worldedit/.archive-unpack/2e1dd752/ms/strings.json"
+hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+
+[[files]]
+file = "overrides/config/worldedit/.archive-unpack/2e1dd752/mt/strings.json"
+hash = "f05eb388f7590866da08167a119fd11ed7cbda9449ab6f33ad14adf2f80476dc"
+
+[[files]]
+file = "overrides/config/worldedit/.archive-unpack/2e1dd752/nds/strings.json"
+hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+
+[[files]]
+file = "overrides/config/worldedit/.archive-unpack/2e1dd752/nl-BE/strings.json"
+hash = "3ffec478bc43c14a786500089235e44d1c8fefa87daa6f0ee02259933aa44f4c"
+
+[[files]]
+file = "overrides/config/worldedit/.archive-unpack/2e1dd752/nl/strings.json"
+hash = "23660bb35fb3cc7fef1b2036a1ee72df71d7da429a3ea38c7d397dba7a618eec"
+
+[[files]]
+file = "overrides/config/worldedit/.archive-unpack/2e1dd752/nn-NO/strings.json"
+hash = "a652452058287975074726fda3d8a48b80a91af61462b0e471b55071daf6f713"
+
+[[files]]
+file = "overrides/config/worldedit/.archive-unpack/2e1dd752/no/strings.json"
+hash = "a652452058287975074726fda3d8a48b80a91af61462b0e471b55071daf6f713"
+
+[[files]]
+file = "overrides/config/worldedit/.archive-unpack/2e1dd752/nuk/strings.json"
+hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+
+[[files]]
+file = "overrides/config/worldedit/.archive-unpack/2e1dd752/oc/strings.json"
+hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+
+[[files]]
+file = "overrides/config/worldedit/.archive-unpack/2e1dd752/oj/strings.json"
+hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+
+[[files]]
+file = "overrides/config/worldedit/.archive-unpack/2e1dd752/pl/strings.json"
+hash = "11b6418c7f4e028290d02916ac286adeba48454a18ba75241c99cbffad5c26c7"
+
+[[files]]
+file = "overrides/config/worldedit/.archive-unpack/2e1dd752/pt-BR/strings.json"
+hash = "63fa35777aec7ab3f29aba48243f4977461cf2617f464e7b5690dd656ef35243"
+
+[[files]]
+file = "overrides/config/worldedit/.archive-unpack/2e1dd752/pt-PT/strings.json"
+hash = "e7faa0729f568e6540ec75c048d5ccae8e23e0ffaf789f9b389b4e7acaf481fd"
+
+[[files]]
+file = "overrides/config/worldedit/.archive-unpack/2e1dd752/qya-AA/strings.json"
+hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+
+[[files]]
+file = "overrides/config/worldedit/.archive-unpack/2e1dd752/ro/strings.json"
+hash = "8e7861e62065963842c0ce22dd1e4baf036c548e6ae4aad540d720412fdc1910"
+
+[[files]]
+file = "overrides/config/worldedit/.archive-unpack/2e1dd752/ru/strings.json"
+hash = "b761321f1e073cba6b8f537e9d424f21daf1791b8e2d381a04429b7411bdcfd3"
+
+[[files]]
+file = "overrides/config/worldedit/.archive-unpack/2e1dd752/se/strings.json"
+hash = "ccbfc481e804dfb61768a8ea30f4c857124b1c6fbfc32e254266e9ffa1d9a6cc"
+
+[[files]]
+file = "overrides/config/worldedit/.archive-unpack/2e1dd752/sk/strings.json"
+hash = "ee3aa9555be39acd6ae8742d190edd0653e2fa64110a8ac4718898d02921fae3"
+
+[[files]]
+file = "overrides/config/worldedit/.archive-unpack/2e1dd752/sl/strings.json"
+hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+
+[[files]]
+file = "overrides/config/worldedit/.archive-unpack/2e1dd752/so/strings.json"
+hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+
+[[files]]
+file = "overrides/config/worldedit/.archive-unpack/2e1dd752/sq/strings.json"
+hash = "488edc59356647858f3134355efed66b4568bb3f68cbe55c8fdccc6e62493476"
+
+[[files]]
+file = "overrides/config/worldedit/.archive-unpack/2e1dd752/sr/strings.json"
+hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+
+[[files]]
+file = "overrides/config/worldedit/.archive-unpack/2e1dd752/strings.json"
+hash = "b10a00d79983716724bd47de317497b4b974fa30d6106724fd328af77e9e91df"
+
+[[files]]
+file = "overrides/config/worldedit/.archive-unpack/2e1dd752/sv-SE/strings.json"
+hash = "1c61ee310348579241c38eb8f602cbc99ffe6f9911f140635ef422d480a722c9"
+
+[[files]]
+file = "overrides/config/worldedit/.archive-unpack/2e1dd752/swg/strings.json"
+hash = "96d13db817f0473a15ddccb96bb4a9c4f53d925ec75434516796801fe0704147"
+
+[[files]]
+file = "overrides/config/worldedit/.archive-unpack/2e1dd752/szl/strings.json"
+hash = "11b6418c7f4e028290d02916ac286adeba48454a18ba75241c99cbffad5c26c7"
+
+[[files]]
+file = "overrides/config/worldedit/.archive-unpack/2e1dd752/ta/strings.json"
+hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+
+[[files]]
+file = "overrides/config/worldedit/.archive-unpack/2e1dd752/th/strings.json"
+hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+
+[[files]]
+file = "overrides/config/worldedit/.archive-unpack/2e1dd752/tlh-AA/strings.json"
+hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+
+[[files]]
+file = "overrides/config/worldedit/.archive-unpack/2e1dd752/tr/strings.json"
+hash = "83874100b44da4685f75697b7b47f92e64359b9c8cd7d1402508288eaeeb944f"
+
+[[files]]
+file = "overrides/config/worldedit/.archive-unpack/2e1dd752/tt-RU/strings.json"
+hash = "cbe2ff6a09104fa0b971554df4324fa84ba3b677a861a7f47e1161930ba333a9"
+
+[[files]]
+file = "overrides/config/worldedit/.archive-unpack/2e1dd752/tzl/strings.json"
+hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+
+[[files]]
+file = "overrides/config/worldedit/.archive-unpack/2e1dd752/uk/strings.json"
+hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+
+[[files]]
+file = "overrides/config/worldedit/.archive-unpack/2e1dd752/val-ES/strings.json"
+hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+
+[[files]]
+file = "overrides/config/worldedit/.archive-unpack/2e1dd752/vec/strings.json"
+hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+
+[[files]]
+file = "overrides/config/worldedit/.archive-unpack/2e1dd752/vi/strings.json"
+hash = "e79961e59fe757f55a93a3366967d8b9d56815cad56301907e248d06640d97fd"
+
+[[files]]
+file = "overrides/config/worldedit/.archive-unpack/2e1dd752/yi/strings.json"
+hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+
+[[files]]
+file = "overrides/config/worldedit/.archive-unpack/2e1dd752/yo/strings.json"
+hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+
+[[files]]
+file = "overrides/config/worldedit/.archive-unpack/2e1dd752/zh-CN/strings.json"
+hash = "5b2b35909a360c83b6aec9424aee0bc2e05063737dc755f2fd674dbc5a08a897"
+
+[[files]]
+file = "overrides/config/worldedit/.archive-unpack/2e1dd752/zh-TW/strings.json"
+hash = "a19d088435d6334295d34fcf23fd2bd181a071a637ceb37cfd0dfdfb32312c56"
+
+[[files]]
+file = "overrides/config/worldedit/sessions/8576a59d-be86-495e-9df7-9902b0693cfc.json"
+hash = "9757a6208de6780c7d86d61a75e997848a30a7e759f5e2f3e29d08ab7aa6383f"
+
+[[files]]
+file = "overrides/config/worldedit/worldedit.properties"
+hash = "6b065453290278808a3aca279cab7c8bb3bdc0af9e017b1a5ff0075aba90ec04"
+
+[[files]]
+file = "overrides/config/worldeditcui.config.json"
+hash = "862eb44e855b5ff872006933278eaf6c17c04c4cb56c6a90f7e2b1c232a2920b"
+
+[[files]]
+file = "overrides/config/yacl.json5"
+hash = "d26a63d3cdf326412ba86dcc2781060bc53ed6c74ac7808e65325452e264e820"
+
+[[files]]
+file = "overrides/config/yawp-common.toml"
+hash = "1f4921b18e3812e74cfe0a865fbf2e2f7e632454788209e0cecaaeb15951ce9c"
+
+[[files]]
+file = "overrides/config/yawp-flags.toml"
+hash = "bc5c52e5b242c5660f03d7a611091881c7881b9dcaa9d8430830e46675c128cc"
+
+[[files]]
+file = "overrides/config/yawp-logging.toml"
+hash = "a60f74dbade36afde39d45893d139f1945a6197ee3c3c539d89420339c5b5177"
+
+[[files]]
+file = "overrides/config/yawp-region-defaults.toml"
+hash = "cc86d89f85c5213a20646b5202c60dbac6631ca31592070e4a38c9f751ec076a"
+
+[[files]]
+file = "overrides/config/yosbr/options.txt"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "overrides/mods/AmbientSounds_FABRIC_v6.1.1_mc1.20.1.jar"
+hash = "e1146edd94907dd6aa968ff8b8467b633ba24a6455e709cbc892ba82aa4cfd1e"
+
+[[files]]
+file = "overrides/mods/ArdaGrass-1.1-1.20.1.jar"
+hash = "af357fa36f850f355d4243509cc78c5269d4476351c277af9ab9cc18d2908df1"
+
+[[files]]
+file = "overrides/mods/ArdaMobs-1.1-SNAPSHOT.jar"
+hash = "c9ced5f190b09c2219b08cc0e3a575c8447ae18ea64cc0df1f9438bbb6c94014"
+
+[[files]]
+file = "overrides/mods/ArdaPaths-1.2.0-SNAPSHOT-b.jar"
+hash = "3c7bae30ff355da7d399bb428e2c771ff592a6fa0d9af10cee450aabcf5e8ff8"
+
+[[files]]
+file = "overrides/mods/Axiom-3.2.1-for-MC1.20.1.jar"
+hash = "3670ff9994d1c6bb7df2a974c579bcf4e7c4b6a47e9f2abde15d896d7b838fb9"
+
+[[files]]
+file = "overrides/mods/BetterF3-7.0.2-Fabric-1.20.1.jar"
+hash = "c9282b371c61fa04f329cc57719b1e221d65c057a70dcb93d1d2b430168fda46"
+
+[[files]]
+file = "overrides/mods/BetterPingDisplay-Fabric-1.20.1-1.1.1.jar"
+hash = "f9f14d7df5c6de56d7c8447b7729d724baa74f0e27b594a201af04381045ece5"
+
+[[files]]
+file = "overrides/mods/Chunky-1.3.146.jar"
+hash = "ae7fb9d35a3a9d9d4f2104aeae7b31a901c5e5842891e2edd9ddcc42c2646a38"
+
+[[files]]
+file = "overrides/mods/ConquestArchitects-1.0.0-1.20.1.jar"
+hash = "3885fa601ea6ded783cfdb788ec04a53061173b3fc09904fb5fa3d9535989102"
+
+[[files]]
+file = "overrides/mods/ConquestHearthfire-1.0.1-1.20.1.jar"
+hash = "8180b93c3b8fc874718455a9a0e1ea3c59cd9030ad06a7b03e73dab7ce4ffc3d"
+
+[[files]]
+file = "overrides/mods/Controlling-fabric-1.20.1-12.0.2.jar"
+hash = "f7bbb7e37f2118af29450ec468d3ce4ec2606fead2861f4092a43509c6803ed6"
+
+[[files]]
+file = "overrides/mods/CreativeCore_FABRIC_v2.12.14_mc1.20.1.jar"
+hash = "859e36e10028fe942ef54dc179387fb729cb8e1f5405311ccd351ffada3f004c"
+
+[[files]]
+file = "overrides/mods/CullLessLeaves-1.3.0.jar"
+hash = "da533e0390bba60f3f77d1ef03404ede30fdd0a0ce0cf15fd2a47f0caea1f4b8"
+
+[[files]]
+file = "overrides/mods/DisableCustomWorldsAdvice-4.1.jar"
+hash = "84ee9a16c5d5955c19ddf9730a12132e0d2078c3bf15a91ad2a122665b2937a1"
+
+[[files]]
+file = "overrides/mods/ForgeConfigAPIPort-v8.0.0-1.20.1-Fabric.jar"
+hash = "91e685925fff2fcaa51a73202a6edc9d2435f76552a8d97af88942c37643fd86"
+
+[[files]]
+file = "overrides/mods/ImmediatelyFast-Fabric-1.2.21+1.20.4.jar"
+hash = "fabcbd45f64b681dfccada5a8005267937fab84d6a3cde9e2731f5357639b84d"
+
+[[files]]
+file = "overrides/mods/Kiwi-1.20.1-Fabric-11.8.24.jar"
+hash = "1939592e4d58b14e791986ba5f217141ad8b22332753da3659abb83964525699"
+
+[[files]]
+file = "overrides/mods/LuckPerms-Fabric-5.4.102.jar"
+hash = "ad9f6b3459224b5d88774263bd564215f7084c1f7503d15e0bb2c54aafc41582"
+
+[[files]]
+file = "overrides/mods/MapFrontiers-1.20.1-2.6.0p5-fabric.jar"
+hash = "4e87c87ebf3b5a33aa86fc1c341b03aaa6318dadcd8c71d59ad37d421e6b75e7"
+
+[[files]]
+file = "overrides/mods/MedievalArmsCR-2.0.0.jar"
+hash = "233f59727a713db8a93a651f42307aaa1ae9bfa618f95a098d6e347fc4d31b92"
+
+[[files]]
+file = "overrides/mods/MouseTweaks-fabric-mc1.20-2.26.jar"
+hash = "1eb9f0c7878598a3a7dfb52cd0e8159ebf8b33b04e6df232534fed2fbb6616e4"
+
+[[files]]
+file = "overrides/mods/PassableFoliage-1.20.1-fabric-8.2.1.jar"
+hash = "fe623973a15568a2bf211ffb5fd001f7245f9dfb50e3bfcbfd07e94d379c103e"
+
+[[files]]
+file = "overrides/mods/Patchouli-1.20.1-84-FABRIC.jar"
+hash = "96ad2c77adf1d0fe1994223b5f469848d51d111b33737efb708eba4ad8f4d2e0"
+
+[[files]]
+file = "overrides/mods/Pehkui-3.8.3+1.14.4-1.21.jar"
+hash = "3129e6fd47062007c815eebd1bd6739a8ecceacf5de2f74b22cce0b75fada75b"
+
+[[files]]
+file = "overrides/mods/PresenceFootsteps-1.9.4+1.20.1.jar"
+hash = "7aded67b6363c9ca4b5003780a6b67cbbb60458e0d782017819ced617ae11cd9"
+
+[[files]]
+file = "overrides/mods/ProximityTextChat-1.20.1-1.3FC.jar"
+hash = "6dd0af9fd31319c8d863ae80cde3b6477afef5ab7c8d4acc28d0940b283a0517"
+
+[[files]]
+file = "overrides/mods/Searchables-fabric-1.20.1-1.0.3.jar"
+hash = "f32e0b0c9bebc99944ddc6a9dba8f8336af666aaba151c6839b8353a2acdd53a"
+
+[[files]]
+file = "overrides/mods/TerraBlender-fabric-1.20.1-3.0.1.10.jar"
+hash = "d02d9aa2ccf091264b0fcef07644128b823b3421a02bfc40391a01aa1ccd0a24"
+
+[[files]]
+file = "overrides/mods/TerraSniper-1.0.1.jar"
+hash = "62025054a4a73318d7544674e0f5b445446362f980a366bb1629e4b48edf2fcd"
+
+[[files]]
+file = "overrides/mods/Terralith_1.20.x_v2.5.4.jar"
+hash = "8f65f309d8f2723754bf4b60c7b5763d3ab6ed04b01c172109ba6564e981b95f"
+
+[[files]]
+file = "overrides/mods/WorldEditCUI-1.20+01.jar"
+hash = "f3fdee50b6a493c102a65655907a43939012a710adb17e9fc46815cc6ad102c1"
+
+[[files]]
+file = "overrides/mods/YetAnotherConfigLib-3.5.0+1.20.1-fabric.jar"
+hash = "30d31da80f0b93377fe1f7c56204ac9cb09d14d261273565e1d6e231fba880c5"
+
+[[files]]
+file = "overrides/mods/animatica-0.6.1+1.20.4.jar"
+hash = "88a40a76f1585bbd4f5a8d0446756662ce6611a262528a3142f94ad70b925232"
+
+[[files]]
+file = "overrides/mods/architectury-9.2.14-fabric.jar"
+hash = "bd7a7032bedb2ff96c6991a846a44c857336a51442a105f5859017e8ba9d1321"
+
+[[files]]
+file = "overrides/mods/azurelib-fabric-1.20.1-2.0.39.jar"
+hash = "a58c22b00ef4b49ed26d37cbdb29377b4af9fecc3dae11235d9ca8e8e83cc7b5"
+
+[[files]]
+file = "overrides/mods/azurelibarmor-fabric-1.20.1-2.0.12.jar"
+hash = "d5516f1bcc63591ae628bb6424f7af111639fee1d0270f4e9173286bbf50a875"
+
+[[files]]
+file = "overrides/mods/badpackets-fabric-0.4.3.jar"
+hash = "4a6b84ce20d7a35d17ef86fe29417de6f25704f478ee2f5f92c7c2ee76ea899e"
+
+[[files]]
+file = "overrides/mods/betterbiomereblend-1.4.2.jar"
+hash = "a5fe584e1abae285c2513c95c51046e538473fb2b45aa4cd59c5e1ada4bb59f0"
+
+[[files]]
+file = "overrides/mods/bettercombat-fabric-1.9.0+1.20.1.jar"
+hash = "c1b680dd03d3af3bf670cf0d024d58bd06360f5b0818eabfec6d7c8e6a11ec07"
+
+[[files]]
+file = "overrides/mods/blur-3.1.0.jar"
+hash = "b886ddaac7b19c9e2db9e0e5331210dcc5b487743d3f9d8d08ad66e90278d9e7"
+
+[[files]]
+file = "overrides/mods/c2me-fabric-mc1.20.1-0.2.0+alpha.11.13.jar"
+hash = "0611e911a3ed99faa3f679c8111049d45609be6cf4a18245c55e9fdc201c8b28"
+
+[[files]]
+file = "overrides/mods/camerautils-fabric-1.20.1-1.0.14.jar"
+hash = "7b1ec194770d4a8db69d35ebeee30e77346838114e7f9a5c5a1ad98e9c9630be"
+
+[[files]]
+file = "overrides/mods/cardinal-components-api-5.2.3.jar"
+hash = "ff1e33adde43c3e01f7e9a673cbb7f3a75453e769f80a38b057653475e296aa2"
+
+[[files]]
+file = "overrides/mods/carryon-fabric-1.20.1-2.1.2.7.jar"
+hash = "8d25fb164fc4cc15cd9123a915c880c55527efe3fec26b2c7febf09e65c6ebdd"
+
+[[files]]
+file = "overrides/mods/chatanimation-fabric-1.20.1-1.1.3.jar"
+hash = "9e46a800d647b17768c8c7964497737223bf1e85563dfc35682afd580a9eaaaa"
+
+[[files]]
+file = "overrides/mods/citresewn-1.1.5+1.20.1.jar"
+hash = "2ec0eb618d085c7ff35531e8362523df36e9496f562023193651c711ba5b7cfc"
+
+[[files]]
+file = "overrides/mods/cloth-config-11.1.136-fabric.jar"
+hash = "844f49c339c8f3144e167ab21b7d0059f0d571054e26285a0749348da25c49fa"
+
+[[files]]
+file = "overrides/mods/continuity-3.0.0-beta.6+1.20.1.jar"
+hash = "235e8646355edf30ab02134a227118ea2e04258a69174a9deeeb9623c7c2db78"
+
+[[files]]
+file = "overrides/mods/coroutil-fabric-1.20.1-1.3.7.jar"
+hash = "a97d58b44cf1ce8cf4fa8fded9c3c574ef1dd95e7fbb073f854e7fbce9c588b3"
+
+[[files]]
+file = "overrides/mods/create-fabric-0.5.1-f-build.1335+mc1.20.1.jar"
+hash = "357582466f31e7aee513f10aaf77be636c4d42614600f3b1f5daeca7e46a27db"
+
+[[files]]
+file = "overrides/mods/effective-2.3.2-1.20.1.jar"
+hash = "21a3c47f1989d348d362a956ac01a413450e01cc083bc1d540ca2abec5c64124"
+
+[[files]]
+file = "overrides/mods/emotecraft-for-MC1.20.1-2.2.7-b.build.50-fabric.jar"
+hash = "e8c5fc2d618008a0ef52728508909945315bb9bf99d78f1478ec42cef502a4e0"
+
+[[files]]
+file = "overrides/mods/entity_model_features_fabric_1.20.1-2.2.6.jar"
+hash = "8d3c5c2bde737973bdaee907c0959710f147115d090e7d1bf64749316fe849bf"
+
+[[files]]
+file = "overrides/mods/entity_texture_features_fabric_1.20.1-6.2.5.jar"
+hash = "028630f9a9b035ba96cf8767b2820e98c60fbfb2e7634aa194d08199ec6895dd"
+
+[[files]]
+file = "overrides/mods/entityculling-fabric-1.7.0-mc1.20.1.jar"
+hash = "4e53510df25ca690b50d4e59cc04b5b88e3fb03635485e2153d91a7c23e2c1d4"
+
+[[files]]
+file = "overrides/mods/entityculling-fabric-1.9.5-mc1.20.1.jar"
+hash = "9df1afc886f16111795e14acfa57f1a5a24b1724aa6ae005568e6eea295a0d28"
+
+[[files]]
+file = "overrides/mods/epichunt-fabric-1.4.2.jar"
+hash = "614122561777d3100bf97e43b39cb850c686bd4044140275ce9b09f10ede2270"
+
+[[files]]
+file = "overrides/mods/fabric-api-0.92.2+1.20.1.jar"
+hash = "4500f844c45573d039d68d3963c9885aa9de7712670216e0ad3e5df16c6770fc"
+
+[[files]]
+file = "overrides/mods/fabric-language-kotlin-1.12.2+kotlin.2.0.20.jar"
+hash = "0193a021bd89158d8a5220d4cd5e7364221081d275a949245b3d4d585a2a030b"
+
+[[files]]
+file = "overrides/mods/fabricskyboxes-0.7.3+mc1.20.1.jar"
+hash = "277393ed2df9c0418ab0af23e7c4213bb08b71d139c022d38ca3ead93235ec35"
+
+[[files]]
+file = "overrides/mods/ferritecore-6.0.1-fabric.jar"
+hash = "c7ba1118a05b2da900d1c369fbe1017a3e3ec3cafe5e51398b851279b9becf24"
+
+[[files]]
+file = "overrides/mods/forgottengraves-3.2.26+1.20.1.jar"
+hash = "226aeedd3c832be3871b9e395361fca9a54df86454b7097f2917d49788fe87f1"
+
+[[files]]
+file = "overrides/mods/fsb-interop-1.3.6+mc1.20.1-build.50.jar"
+hash = "17bec23a0a6d67bcaa4d056cd7b8938ba1c00f40b095cfa39c570a3f3b0d8b46"
+
+[[files]]
+file = "overrides/mods/geckolib-fabric-1.20.1-4.4.9.jar"
+hash = "05d4997c698420f3fb8b095e9f8e5a7d92e73f8dddff8fd7fd0a0b17018cb0ca"
+
+[[files]]
+file = "overrides/mods/immersive_melodies-0.6.0+1.20.1-fabric.jar"
+hash = "e0ad231e2e60de3d1063a520498d35fe25a42dd7f2d231c1bc5b157815ef4cdd"
+
+[[files]]
+file = "overrides/mods/indium-1.0.34+mc1.20.1.jar"
+hash = "33bdc7f01bdca61fd1d526e9e6ae1acdf107412ed0f6483da528d7eadc919059"
+
+[[files]]
+file = "overrides/mods/iris-1.7.5+mc1.20.1.jar"
+hash = "95b870dfe225ff26d9d3997c0b0089063d3b6e0e017f018d7217f52a31076f08"
+
+[[files]]
+file = "overrides/mods/journeymap-1.20.1-5.10.3-fabric.jar"
+hash = "5d41c052b5a9d772360e279398d9ca053c785bdbc963f911381ed1210b8d0296"
+
+[[files]]
+file = "overrides/mods/konkrete_fabric_1.8.1_MC_1.20.1.jar"
+hash = "f87fc3ab29a8df63a5214fdfa58d2f9fa645255af64d38ba598a9f56fafccdb6"
+
+[[files]]
+file = "overrides/mods/language-reload-1.6.1+1.20.1.jar"
+hash = "9d3e71d61d775ce96233c7a1482b555f9021d3928c71bbe1ec61fe79fb2bf04e"
+
+[[files]]
+file = "overrides/mods/language-reload-1.7.5+1.20.1.jar"
+hash = "bfe158c575a9d31faf94019beb62a7fa6ef0ed75cdf19cf4a5356e0e755cc332"
+
+[[files]]
+file = "overrides/mods/lazydfu-0.1.3.jar"
+hash = "4f3b77273b57d019a8db58371e63e4426557c1bb7c9cc10536a03972122778c8"
+
+[[files]]
+file = "overrides/mods/letsdo-vinery-fabric-1.4.41.jar"
+hash = "d9a64ee64b2c618e6b4ca15963c1998d2ee20769b74784ea1081741be58275af"
+
+[[files]]
+file = "overrides/mods/lithium-fabric-mc1.20.1-0.11.2.jar"
+hash = "a0c595355d680e0c87bf8eaebafedff6900d4e771a8d6894ee6d2d4374de8df9"
+
+[[files]]
+file = "overrides/mods/lithium-fabric-mc1.20.1-0.11.4.jar"
+hash = "76133efe92aea907cf75562d9e26517deb170e2580e1ecd4979da2c8902de782"
+
+[[files]]
+file = "overrides/mods/melody_fabric_1.0.4_MC_1.20.1-1.20.4.jar"
+hash = "3f7f5bab77a01a26af4702a70af5a7fd0a6f04f4fde51a4180113790e0c9e1e7"
+
+[[files]]
+file = "overrides/mods/memoryleakfix-fabric-1.17+-1.1.5.jar"
+hash = "b8ac33d7262e019710dd25e454116616bc9ed1f714ed910594b28a4c1da5adde"
+
+[[files]]
+file = "overrides/mods/modernfix-fabric-5.19.4+mc1.20.1.jar"
+hash = "d0ca3374910527eda7ed7d94781149aeb0a2e81d36c86a86f93cd70f9cbe45f2"
+
+[[files]]
+file = "overrides/mods/modernfix-fabric-5.25.2+mc1.20.1.jar"
+hash = "5c1f852046e62a17056bb6b571164e61644076c5eb9029c92b31e337cc62c0d9"
+
+[[files]]
+file = "overrides/mods/modmenu-7.2.2.jar"
+hash = "a041b0f0305ffa5eb90120aa23768e1cfbb27583904b1751e3783c0f69382f1a"
+
+[[files]]
+file = "overrides/mods/morechathistory-1.3.0.jar"
+hash = "87dd00a8b62b10bed3bb201d5aaf220fd72a6d77ef284c1fc65ddb5e262d4c8c"
+
+[[files]]
+file = "overrides/mods/name-changer-1.2.0.jar"
+hash = "970cbd1f7e24cd6f581770cb62685d58ddf260048c763e4f7556fd6621b9e517"
+
+[[files]]
+file = "overrides/mods/noclip-1.1.5+1.20-fabric.jar"
+hash = "21987faee488ca9d0f3b495de3ee2ac288ec4eeda061e497638966f303329ec9"
+
+[[files]]
+file = "overrides/mods/notenoughanimations-fabric-1.7.6-mc1.20.1.jar"
+hash = "7eebee45db5346550748e92f80360325bce717ad6ddba9370d6b31a28e6e889f"
+
+[[files]]
+file = "overrides/mods/open-parties-and-claims-fabric-1.20.1-0.25.10.jar"
+hash = "592edc259b320de99ee84f36abedc02b8957ba55b19461d1be1697a82503bc41"
+
+[[files]]
+file = "overrides/mods/optigui-2.3.0-beta.6+1.20.jar"
+hash = "7c8e668849f37a8fb3a7e23986ced8a44491ccb52a61d680270f49a6e5221de1"
+
+[[files]]
+file = "overrides/mods/packetfixer-fabric-1.4.2-1.19-to-1.20.1.jar"
+hash = "5c61569c9142fc602b83096c90ee9040d4b8dbdc30fd3f8e10ca5ffafeb14cf4"
+
+[[files]]
+file = "overrides/mods/paintbrush-1.2.2.jar"
+hash = "b042bfbf8aa021a57296b503ab0fa297cf0ce7e9c40283cf2ebb724b8ebe5897"
+
+[[files]]
+file = "overrides/mods/patchoulibutton-1.0.2.jar"
+hash = "00d0bfd1982f9ca6d993255b8c33e66e8201766b36430e68712bbbcb062b12af"
+
+[[files]]
+file = "overrides/mods/player-animation-lib-fabric-1.0.2-rc1+1.20.jar"
+hash = "0b10021fa638997398110777747726b1cb7a27bc3f8ff1b12e2b93ac01784018"
+
+[[files]]
+file = "overrides/mods/polymorph-fabric-0.49.10+1.20.1.jar"
+hash = "05b611960c486c745db6a32b92951dfcb80b26ba2e7b96e12a6f43517830cffb"
+
+[[files]]
+file = "overrides/mods/polytone-1.20-2.3.3-fabric.jar"
+hash = "c11f813ec468f0a08b168c8c113e87b59c37867f2abbb62ae0387e66204aa77c"
+
+[[files]]
+file = "overrides/mods/reeses_sodium_options-1.7.2+mc1.20.1-build.101.jar"
+hash = "627b6b90e30d18de49dd8960afd5c8b530cf2c6f21b248d14a848d1023ff0bec"
+
+[[files]]
+file = "overrides/mods/skinlayers3d-fabric-1.6.7-mc1.20.1.jar"
+hash = "b5b58c6a9331fe1e33efe1d33d147453aff824d432a1e75fd5800e1127a3d9bc"
+
+[[files]]
+file = "overrides/mods/smallships-fabric-1.20.1-2.0.0-b1.4.jar"
+hash = "dfbdebdd60809beeb2893902e8b30c806a164675066a56662e8640c3bbead2f8"
+
+[[files]]
+file = "overrides/mods/sodium-fabric-0.5.11+mc1.20.1.jar"
+hash = "5413baaa260a2eadcee4221b8e7105a8e2a9b5b2c84b73f704f2740319aab7df"
+
+[[files]]
+file = "overrides/mods/sound-physics-remastered-fabric-1.20.1-1.4.5.jar"
+hash = "25a0924acc720c7dc8d52f23459d3f4f2f48bb148e7a46d46dee4db10a37e8a5"
+
+[[files]]
+file = "overrides/mods/spell_power-0.12.0+1.20.1.jar"
+hash = "896008ae5bf2869074f7b0a64a18bf12ea258b24da2ffb1ad9a87426db8b8662"
+
+[[files]]
+file = "overrides/mods/styled-chat-2.2.4+1.20.1.jar"
+hash = "c301f2f8956a0d1f6d46a7324b578d75edcedd42ddae8b43064df741d00cf418"
+
+[[files]]
+file = "overrides/mods/tooltipfix-1.1.1-1.20.jar"
+hash = "50c6c45d16c62b0d9a832692b7f6250d5561f0b28bf7729d8ab25fe1162c90d2"
+
+[[files]]
+file = "overrides/mods/travelersbackpack-fabric-1.20.1-9.1.50.jar"
+hash = "e40a5782958eb2c9b6330bf9ef61157f7b3a1048da86e3f107d9b7e13ded5e3c"
+
+[[files]]
+file = "overrides/mods/voicechat-fabric-1.20.1-2.6.12.jar"
+hash = "57bf58d01a6931b1a35cf7456e56e2c6965db1fd53def97d72e819cde7b30780"
+
+[[files]]
+file = "overrides/mods/watut-fabric-1.20.1-1.2.3.jar"
+hash = "1f3da9141ca583b1bcc706e9826aa79d788b2b0c59202508c596526dc1016e67"
+
+[[files]]
+file = "overrides/mods/weaponmaster_ydm-fabric-1.20.1-4.2.6.jar"
+hash = "f9b3e69c9d52743bb67cb230e1a1bb78ac4ae1a55626422672bf021898745e46"
+
+[[files]]
+file = "overrides/mods/weather-changer-fabric-1.0.1.jar"
+hash = "095d758082ca69f7cfef36dbfa9459cb39087412b83949f1381283a51be4064c"
+
+[[files]]
+file = "overrides/mods/worldedit-mod-7.2.15.jar"
+hash = "17db6b3e94f52d25426684663e1e1846823cbb7907f1c365ac329e5bc7bfaf2c"
+
+[[files]]
+file = "overrides/mods/xlpackets-1.0.4-1.20.x.jar"
+hash = "1e5563d9cf029f019a5cf99e18685c3ab8e4701f20a2ddf90bcf769741668212"
+
+[[files]]
+file = "overrides/mods/yosbr-0.1.2.jar"
+hash = "db4c744fd71f5617639cb0fdff72378b08d2852004f4045c62090de1bf53afcb"
+
+[[files]]
+file = "overrides/resourcepacks/ACRP 1.0.2-Fabric.zip"
+hash = "6916782f9e8384aef375b24a4b21e17a11741a1441a1bcdc20b43181baec7780"
+
+[[files]]
+file = "overrides/shaderpacks/BSL_v10.1.1.zip"
+hash = "131ca6b56b100e60577ffdb0dd51bfab2ee6e334564eeee324e5422026891668"
+
+[[files]]
+file = "overrides/shaderpacks/Bliss-Shader-ArdaCraft-Settings.txt"
+hash = "89cc4df6f4ad9bfcd28471f6476cfade4bf23ae8d3341ec86785d79212d69ba2"
+
+[[files]]
+file = "overrides/shaderpacks/Bliss-Shader-ArdaCraft-Settings/.github/ISSUE_TEMPLATE/ask-a-question.md"
+hash = "25e0fb5e2782457ca29b2d56d71efb8306ac2845f2dab7e7e06758dcbeb4bc56"
+
+[[files]]
+file = "overrides/shaderpacks/Bliss-Shader-ArdaCraft-Settings/.github/ISSUE_TEMPLATE/bug-report.md"
+hash = "46b63b206becb7fe3855a75ba7642c88dff72c206cbd83a83b3fe3be0ac18a0f"
+
+[[files]]
+file = "overrides/shaderpacks/Bliss-Shader-ArdaCraft-Settings/.github/ISSUE_TEMPLATE/feature-suggestion.md"
+hash = "c43b36be75a2976112ffba4da028c6579eaea5982a24894fdeec4f907e19e80d"
+
+[[files]]
+file = "overrides/shaderpacks/Bliss-Shader-ArdaCraft-Settings/CREDITS.txt"
+hash = "a186d3f116453b3ff560dbbfb99bc7879ce1119e49f3503a1f9a124d797edb10"
+
+[[files]]
+file = "overrides/shaderpacks/Bliss-Shader-ArdaCraft-Settings/LICENSE.md"
+hash = "98721f6336ca10e5d8ed3261687ba00452d55507395162dea1c5c9f2d74a43f0"
+
+[[files]]
+file = "overrides/shaderpacks/Bliss-Shader-ArdaCraft-Settings/README.md"
+hash = "3bbd8a065f5323e9d4ed37212107199c143aea1de9508ed2e85d4017b4bcee62"
+
+[[files]]
+file = "overrides/shaderpacks/Bliss-Shader-ArdaCraft-Settings/shaders/block.properties"
+hash = "51e2e2fd5602a5f1672b9385cb5d1239f50be2e4cf23b91154b701b69f20e9f9"
+
+[[files]]
+file = "overrides/shaderpacks/Bliss-Shader-ArdaCraft-Settings/shaders/dimension.properties"
+hash = "d317b52f1ee515960c49ed1c352864ac908e3da9682ba264cde2389feea61a55"
+
+[[files]]
+file = "overrides/shaderpacks/Bliss-Shader-ArdaCraft-Settings/shaders/dimensions/DH_solid.fsh"
+hash = "95eff1baaee8db6072fbff414904e67cb5c096db850bf51f9fa35ca6f5c1423d"
+
+[[files]]
+file = "overrides/shaderpacks/Bliss-Shader-ArdaCraft-Settings/shaders/dimensions/DH_solid.vsh"
+hash = "f1c94492990ba152b5bd612ab7a479e3c036d13ca097c78f36014a136c27dfdf"
+
+[[files]]
+file = "overrides/shaderpacks/Bliss-Shader-ArdaCraft-Settings/shaders/dimensions/DH_translucent.fsh"
+hash = "cc3b455617610f990dfe51c1325d6881ba509451295ce96fc255efff68b31b02"
+
+[[files]]
+file = "overrides/shaderpacks/Bliss-Shader-ArdaCraft-Settings/shaders/dimensions/DH_translucent.vsh"
+hash = "17cd98347da47fe33cba5de1f6929b1f71352a87c662ad5757203649a3e3afd4"
+
+[[files]]
+file = "overrides/shaderpacks/Bliss-Shader-ArdaCraft-Settings/shaders/dimensions/all_particles.fsh"
+hash = "ece495ac864a2e0c7bb66ad02776b29671c5654f91e37858206f44ae11b03fa3"
+
+[[files]]
+file = "overrides/shaderpacks/Bliss-Shader-ArdaCraft-Settings/shaders/dimensions/all_particles.vsh"
+hash = "678a68640e1946045ecb101ec6b385d616fb44a9af587e4d159b4f0b539aec7b"
+
+[[files]]
+file = "overrides/shaderpacks/Bliss-Shader-ArdaCraft-Settings/shaders/dimensions/all_solid.fsh"
+hash = "cf3352c17bb9b24fb9e3ffe5a8f623cd2c415372af6eb75282336f3bd3aa21ec"
+
+[[files]]
+file = "overrides/shaderpacks/Bliss-Shader-ArdaCraft-Settings/shaders/dimensions/all_solid.vsh"
+hash = "b95a12c71f7d8001b53aeee60d41b24af041c988703b014892ad6b6cb4f62616"
+
+[[files]]
+file = "overrides/shaderpacks/Bliss-Shader-ArdaCraft-Settings/shaders/dimensions/all_translucent.fsh"
+hash = "8398a2018f897ae27cb11b6cb73b240b19960154cfbaec307987b19207ca0edc"
+
+[[files]]
+file = "overrides/shaderpacks/Bliss-Shader-ArdaCraft-Settings/shaders/dimensions/all_translucent.vsh"
+hash = "ee815522f0bfc700d59e079bc1bb1363ae5c08e742f86bff984532419d33eaa0"
+
+[[files]]
+file = "overrides/shaderpacks/Bliss-Shader-ArdaCraft-Settings/shaders/dimensions/all_vanilla_emissives.fsh"
+hash = "5fc0caa698ad1d205525c70f55bb75a49069d1f40e3b039ff42da6f5835e90f0"
+
+[[files]]
+file = "overrides/shaderpacks/Bliss-Shader-ArdaCraft-Settings/shaders/dimensions/all_vanilla_emissives.vsh"
+hash = "0a3c983ba4f7db16530efc6f7a18d5217f284e54ae57f9c203ff41888397d0d3"
+
+[[files]]
+file = "overrides/shaderpacks/Bliss-Shader-ArdaCraft-Settings/shaders/dimensions/composite.fsh"
+hash = "2a9e4545c98972355973112041b219d752d0fd0df9154a6a1d1a216187f2b44f"
+
+[[files]]
+file = "overrides/shaderpacks/Bliss-Shader-ArdaCraft-Settings/shaders/dimensions/composite.vsh"
+hash = "a34cafce5183efcbbc65bb71f7bba38765c3079e8bd1a2db258af6b1cfeb983b"
+
+[[files]]
+file = "overrides/shaderpacks/Bliss-Shader-ArdaCraft-Settings/shaders/dimensions/composite1.fsh"
+hash = "d174ccd575f3354123fce3cb63a59bb254318660862af06f931afd673ee8e1e7"
+
+[[files]]
+file = "overrides/shaderpacks/Bliss-Shader-ArdaCraft-Settings/shaders/dimensions/composite1.vsh"
+hash = "77ffee82ef1e51e9fece21a66b5129d8dcabf240b8fa55851cc3896de7b85b56"
+
+[[files]]
+file = "overrides/shaderpacks/Bliss-Shader-ArdaCraft-Settings/shaders/dimensions/composite10.fsh"
+hash = "1ec779b2cec98990a5313e744819b439aff4a384f5d4a3acfe5a7ec04f4b88c4"
+
+[[files]]
+file = "overrides/shaderpacks/Bliss-Shader-ArdaCraft-Settings/shaders/dimensions/composite10.vsh"
+hash = "e451cc3bf30a343a9534aea3d7fbbfde9bea12a1de96bd299f2225053f90db79"
+
+[[files]]
+file = "overrides/shaderpacks/Bliss-Shader-ArdaCraft-Settings/shaders/dimensions/composite11.fsh"
+hash = "473cc54c9ca204b366d3977957082551f6524a79a87f053bf3677ef579b86550"
+
+[[files]]
+file = "overrides/shaderpacks/Bliss-Shader-ArdaCraft-Settings/shaders/dimensions/composite11.vsh"
+hash = "47284e3c045709e17d418c6ad87246dcdb17f9f7a3f70dc5b751b35162225f81"
+
+[[files]]
+file = "overrides/shaderpacks/Bliss-Shader-ArdaCraft-Settings/shaders/dimensions/composite12.fsh"
+hash = "187272450b743fef81f29a42a42ece53c15346d4f12c282b39ec4a3488abafe9"
+
+[[files]]
+file = "overrides/shaderpacks/Bliss-Shader-ArdaCraft-Settings/shaders/dimensions/composite12.vsh"
+hash = "1dda81004adbc8551299dbb535c1194ca7c144535ee13ba0cdbf37a41de4e7ed"
+
+[[files]]
+file = "overrides/shaderpacks/Bliss-Shader-ArdaCraft-Settings/shaders/dimensions/composite2.fsh"
+hash = "32917b74be89bed54f3481110b29a049b59a5ba06b345a20e20eb72ff67ff9e5"
+
+[[files]]
+file = "overrides/shaderpacks/Bliss-Shader-ArdaCraft-Settings/shaders/dimensions/composite2.vsh"
+hash = "1379fe760fcc96ab5e40014016ec2de25fe001c515b56d1dd9739d9a4d73a7b6"
+
+[[files]]
+file = "overrides/shaderpacks/Bliss-Shader-ArdaCraft-Settings/shaders/dimensions/composite3.fsh"
+hash = "6b2010b3189277b93521eb92a48989b123c1ae57c370f7417389e4b88d6eac11"
+
+[[files]]
+file = "overrides/shaderpacks/Bliss-Shader-ArdaCraft-Settings/shaders/dimensions/composite3.vsh"
+hash = "7ca365ce49eb38731b8ce10eef90921c447dde42889f975ca30c9823a55aaa7b"
+
+[[files]]
+file = "overrides/shaderpacks/Bliss-Shader-ArdaCraft-Settings/shaders/dimensions/composite4.fsh"
+hash = "bed60fa3732863d302413a19b4f389f3f483825beeb8a358c49ac5623b45741e"
+
+[[files]]
+file = "overrides/shaderpacks/Bliss-Shader-ArdaCraft-Settings/shaders/dimensions/composite4.vsh"
+hash = "d1c5b7d8ab83b0131ae770cc9105725eb0ee1665fdb48044779cb9f31bdf8a88"
+
+[[files]]
+file = "overrides/shaderpacks/Bliss-Shader-ArdaCraft-Settings/shaders/dimensions/composite5.fsh"
+hash = "2ee2d5b0cc363cabea36ca29c96634aa01dd2b9e46f980e8d9e2fa5920dd5906"
+
+[[files]]
+file = "overrides/shaderpacks/Bliss-Shader-ArdaCraft-Settings/shaders/dimensions/composite5.vsh"
+hash = "8befda39d12af1d88d4666014dfcf0750d293a7ec6b382c4af6d2a6ea943c6ae"
+
+[[files]]
+file = "overrides/shaderpacks/Bliss-Shader-ArdaCraft-Settings/shaders/dimensions/composite6.fsh"
+hash = "c29a8b863b11cbb2a30e931d9234e383972b999e1e776bf7d7dfee29fb03c5d9"
+
+[[files]]
+file = "overrides/shaderpacks/Bliss-Shader-ArdaCraft-Settings/shaders/dimensions/composite6.vsh"
+hash = "e451cc3bf30a343a9534aea3d7fbbfde9bea12a1de96bd299f2225053f90db79"
+
+[[files]]
+file = "overrides/shaderpacks/Bliss-Shader-ArdaCraft-Settings/shaders/dimensions/composite7.fsh"
+hash = "310d7baed024e8853c661a50f995acd6ac325552adf9c3576e9819d3a45f52c4"
+
+[[files]]
+file = "overrides/shaderpacks/Bliss-Shader-ArdaCraft-Settings/shaders/dimensions/composite7.vsh"
+hash = "150823674ca4be8bca843da0b4c606ebe1a2e3694a0eafc5ddbb80ac28d48fa5"
+
+[[files]]
+file = "overrides/shaderpacks/Bliss-Shader-ArdaCraft-Settings/shaders/dimensions/composite8.fsh"
+hash = "de35e1b3635156e7313eac5f71b7b4f7c702af680f4ba9270198cff79c41b569"
+
+[[files]]
+file = "overrides/shaderpacks/Bliss-Shader-ArdaCraft-Settings/shaders/dimensions/composite8.vsh"
+hash = "bb3826f15b37176b30feb3c6402a571153bb3a424a3d303ee94637314d1e84ef"
+
+[[files]]
+file = "overrides/shaderpacks/Bliss-Shader-ArdaCraft-Settings/shaders/dimensions/composite9.fsh"
+hash = "48e81190fd6ebe76afa4ffa9333b61262ab3d2981eabc871dd8585a14448119d"
+
+[[files]]
+file = "overrides/shaderpacks/Bliss-Shader-ArdaCraft-Settings/shaders/dimensions/composite9.vsh"
+hash = "3a71a0faeb11be4446b2589ee196640e61f541ab78dc366c8e5043fab578bc7b"
+
+[[files]]
+file = "overrides/shaderpacks/Bliss-Shader-ArdaCraft-Settings/shaders/dimensions/deferred.fsh"
+hash = "650817ada4e38b9da06506ddd51f1d1e7d395b7f1d6493c80cd3bc35aad9f837"
+
+[[files]]
+file = "overrides/shaderpacks/Bliss-Shader-ArdaCraft-Settings/shaders/dimensions/deferred.vsh"
+hash = "865cd0a34deaba6bf647d2f92b7b4277e5355d024249ea83afc442d87cd7ec06"
+
+[[files]]
+file = "overrides/shaderpacks/Bliss-Shader-ArdaCraft-Settings/shaders/dimensions/deferred1.fsh"
+hash = "c1482b258651444e69e79bed82bea6dae213c279acace7db35d1248db00d3835"
+
+[[files]]
+file = "overrides/shaderpacks/Bliss-Shader-ArdaCraft-Settings/shaders/dimensions/deferred1.vsh"
+hash = "73287d6fa2dbd1b37900121a5d5da4fc1c68bb3cc178c809ff1fd83e8dd1f8ef"
+
+[[files]]
+file = "overrides/shaderpacks/Bliss-Shader-ArdaCraft-Settings/shaders/dimensions/deferred2.fsh"
+hash = "e0404f1fb360c1b31f21fe78ad6250106e6a9c788549f1726fd1185cce6ba854"
+
+[[files]]
+file = "overrides/shaderpacks/Bliss-Shader-ArdaCraft-Settings/shaders/dimensions/deferred2.vsh"
+hash = "bf180229faf172c192ff6719701f3a98c86aa5185d379538e8661c914da6bc8e"
+
+[[files]]
+file = "overrides/shaderpacks/Bliss-Shader-ArdaCraft-Settings/shaders/dimensions/final.fsh"
+hash = "20a3791398ccc3dfbdf4e6f1dbdd845d5a2b4f25fc8aafc5ed3eed562caf0ae3"
+
+[[files]]
+file = "overrides/shaderpacks/Bliss-Shader-ArdaCraft-Settings/shaders/dimensions/final.vsh"
+hash = "1dda81004adbc8551299dbb535c1194ca7c144535ee13ba0cdbf37a41de4e7ed"
+
+[[files]]
+file = "overrides/shaderpacks/Bliss-Shader-ArdaCraft-Settings/shaders/dimensions/fogBehindTranslucent_pass.fsh"
+hash = "ebf17bbbfc4cf106a42e0aa0a4f0fb831456cdc7ca17a8eda8a790f818c8f103"
+
+[[files]]
+file = "overrides/shaderpacks/Bliss-Shader-ArdaCraft-Settings/shaders/dimensions/fogBehindTranslucent_pass.vsh"
+hash = "98b5a373deff50319dc7884c398e53668660a719968efeee97776a9787554543"
+
+[[files]]
+file = "overrides/shaderpacks/Bliss-Shader-ArdaCraft-Settings/shaders/dimensions/setup.csh"
+hash = "ced436dd36c7b6f35f59cae7f50098d68833da82f1b53575c4a0f320c7a030a8"
+
+[[files]]
+file = "overrides/shaderpacks/Bliss-Shader-ArdaCraft-Settings/shaders/dimensions/shadowcomp.csh"
+hash = "6dd3737bdfed3dc2ad0e3601e9d766f4b3f27b67180732b2601bf7d1111f9fb4"
+
+[[files]]
+file = "overrides/shaderpacks/Bliss-Shader-ArdaCraft-Settings/shaders/entity.properties"
+hash = "9fa404241449c15d307b862f89ec31e9a4b05ff4316b64bac9a7870f5ffa26ee"
+
+[[files]]
+file = "overrides/shaderpacks/Bliss-Shader-ArdaCraft-Settings/shaders/item.properties"
+hash = "0dacefc4e77408fedb30aac80c871a4812152fd8419a0526a3fdf43cfd5a56ee"
+
+[[files]]
+file = "overrides/shaderpacks/Bliss-Shader-ArdaCraft-Settings/shaders/lang/en_us.lang"
+hash = "43c587ecb115d28bb37aebd2aaa0932730d1f2c6890cf39ac53f42dc9aeed073"
+
+[[files]]
+file = "overrides/shaderpacks/Bliss-Shader-ArdaCraft-Settings/shaders/lang/pt_br.lang"
+hash = "0433080ba96346094849b084bf60f8a1f9219d204f89ef7108bc2551047255ed"
+
+[[files]]
+file = "overrides/shaderpacks/Bliss-Shader-ArdaCraft-Settings/shaders/lang/ru_RU.lang"
+hash = "3a60f30ecbc611d0507a399afc9be41e485c376af32cd21d7658544d9d1faef8"
+
+[[files]]
+file = "overrides/shaderpacks/Bliss-Shader-ArdaCraft-Settings/shaders/lang/zh_cn.lang"
+hash = "88bcd1a7ed5353514057484ccb5de7409bfa4dfadb9f5011f7df506ed09e2290"
+
+[[files]]
+file = "overrides/shaderpacks/Bliss-Shader-ArdaCraft-Settings/shaders/lib/DistantHorizons_projections.glsl"
+hash = "6e0c7b7e476747a7a2295d49d0f0ddb447eaf720d1a577a93f1087d5ba3b9a6f"
+
+[[files]]
+file = "overrides/shaderpacks/Bliss-Shader-ArdaCraft-Settings/shaders/lib/PhotonGTAO.glsl"
+hash = "cf66dbf2b940da423e0eb0f9cab94578b0634ebba276e66b8d13167efa000fa1"
+
+[[files]]
+file = "overrides/shaderpacks/Bliss-Shader-ArdaCraft-Settings/shaders/lib/ROBOBO_sky.glsl"
+hash = "b590c4f9a9c20947644a114cb0483f2718ddf191ec83d75e352d734de07ddc4b"
+
+[[files]]
+file = "overrides/shaderpacks/Bliss-Shader-ArdaCraft-Settings/shaders/lib/Shadow_Params.glsl"
+hash = "a8679c98b8d94c72854ed3a1a8081098a0407c913ab367ad9366cec60f2fae86"
+
+[[files]]
+file = "overrides/shaderpacks/Bliss-Shader-ArdaCraft-Settings/shaders/lib/Shadows.glsl"
+hash = "b320f97af93fdd12cc20e3de10b01ea3858baf5100bc4635c29f1853336cdf73"
+
+[[files]]
+file = "overrides/shaderpacks/Bliss-Shader-ArdaCraft-Settings/shaders/lib/blocks.glsl"
+hash = "95085cf5ee273678c15682b87e634bc3a53da58a2b45c5b183b31d355085f790"
+
+[[files]]
+file = "overrides/shaderpacks/Bliss-Shader-ArdaCraft-Settings/shaders/lib/bokeh.glsl"
+hash = "45f16ff8a3d914e48ebd0a123e829698ba3bfbad7effc7b246f7a1f0487570d6"
+
+[[files]]
+file = "overrides/shaderpacks/Bliss-Shader-ArdaCraft-Settings/shaders/lib/climate_settings.glsl"
+hash = "81dc6dc359da7c98ad26d3e5155305df8d0fe5ec5e39c0e33425f5f6f31df80c"
+
+[[files]]
+file = "overrides/shaderpacks/Bliss-Shader-ArdaCraft-Settings/shaders/lib/color_dither.glsl"
+hash = "15961a5cfe4b37600050f9a0bd50cedeaeac3588f3d1d63955abad0a610b2ce9"
+
+[[files]]
+file = "overrides/shaderpacks/Bliss-Shader-ArdaCraft-Settings/shaders/lib/color_transforms.glsl"
+hash = "cde31cdb1a144cc8777df57be402ac88d9729566784a750dc3a1f857e7e766aa"
+
+[[files]]
+file = "overrides/shaderpacks/Bliss-Shader-ArdaCraft-Settings/shaders/lib/diffuse_lighting.glsl"
+hash = "6d53490152cb87ac07960b2228168d175c407a91905909147be7fd89dc19a6f4"
+
+[[files]]
+file = "overrides/shaderpacks/Bliss-Shader-ArdaCraft-Settings/shaders/lib/end_fog.glsl"
+hash = "56a9d278411cacf791fe63d5a85849f9fd63e741c2872a2cf04cb3b70a7767f8"
+
+[[files]]
+file = "overrides/shaderpacks/Bliss-Shader-ArdaCraft-Settings/shaders/lib/entities.glsl"
+hash = "60858f8be357146fc9814bf4ce99e80cba1f932be9411fe922cebc208afc2642"
+
+[[files]]
+file = "overrides/shaderpacks/Bliss-Shader-ArdaCraft-Settings/shaders/lib/gameplay_effects.glsl"
+hash = "53eb52e2bc82eef767ad580b053fe22560945e8a18b71d9edf797546818d927f"
+
+[[files]]
+file = "overrides/shaderpacks/Bliss-Shader-ArdaCraft-Settings/shaders/lib/hsv.glsl"
+hash = "5cd3f89c1458453752804d3ebfbf6c424a9904466c9a18bc70dbb2d4d955f796"
+
+[[files]]
+file = "overrides/shaderpacks/Bliss-Shader-ArdaCraft-Settings/shaders/lib/indirect_lighting_effects.glsl"
+hash = "b0152a72b7bce0ffcffb91ca2009077242b5e8d8c8a812c0f70a6e1e8db9b59b"
+
+[[files]]
+file = "overrides/shaderpacks/Bliss-Shader-ArdaCraft-Settings/shaders/lib/items.glsl"
+hash = "79af21c5095cb9bf7133cf5e240426912487084fa0e7cea0c84d8f38bc13906d"
+
+[[files]]
+file = "overrides/shaderpacks/Bliss-Shader-ArdaCraft-Settings/shaders/lib/lightning_stuff.glsl"
+hash = "640cd4c64f6419ad7ad9a55c4f023cd15689ffcc48801b8c9d36066ca0acce63"
+
+[[files]]
+file = "overrides/shaderpacks/Bliss-Shader-ArdaCraft-Settings/shaders/lib/lpv_blocks.glsl"
+hash = "cfc77717be29599fdac5350a86dfed5954b5169179352526402da959d4e8232c"
+
+[[files]]
+file = "overrides/shaderpacks/Bliss-Shader-ArdaCraft-Settings/shaders/lib/lpv_buffer.glsl"
+hash = "22f456f3b779882979eb6ccc1eea803883647d12ac266d9ccf89af1ffdf3f988"
+
+[[files]]
+file = "overrides/shaderpacks/Bliss-Shader-ArdaCraft-Settings/shaders/lib/lpv_common.glsl"
+hash = "d783169975611eeec921c37aa91ad6ca3797c4506a4ddf6900fafd8a0f433368"
+
+[[files]]
+file = "overrides/shaderpacks/Bliss-Shader-ArdaCraft-Settings/shaders/lib/lpv_render.glsl"
+hash = "c647c3eecfbbe359d443bd7d7c8926b3b25f3650829f875271184f907d438ac6"
+
+[[files]]
+file = "overrides/shaderpacks/Bliss-Shader-ArdaCraft-Settings/shaders/lib/nether_fog.glsl"
+hash = "26651f1702743ee8da7dcb24c17215c3d9fdb0e762a5b1fc7ee750ef3d027cff"
+
+[[files]]
+file = "overrides/shaderpacks/Bliss-Shader-ArdaCraft-Settings/shaders/lib/overworld_fog.glsl"
+hash = "b3510bdd6305bad61085bbddfe3b77238af9b0cb5ff7bf90ae2a2876530499eb"
+
+[[files]]
+file = "overrides/shaderpacks/Bliss-Shader-ArdaCraft-Settings/shaders/lib/projections.glsl"
+hash = "6a36cb5c1979319ca76d13bacf85eb0c1ea6b74fdce9a9568451ba0c71f88e46"
+
+[[files]]
+file = "overrides/shaderpacks/Bliss-Shader-ArdaCraft-Settings/shaders/lib/res_params.glsl"
+hash = "79e9d9dd3e38f94dc362a65fb653e2593f464ac125911fcd5d27ab582602b379"
+
+[[files]]
+file = "overrides/shaderpacks/Bliss-Shader-ArdaCraft-Settings/shaders/lib/settings.glsl"
+hash = "09f763cdeabca6c5e8cb37ab03cd45414a714ddedb32fc42d865a0323457c36e"
+
+[[files]]
+file = "overrides/shaderpacks/Bliss-Shader-ArdaCraft-Settings/shaders/lib/sky_gradient.glsl"
+hash = "95b5558d66134ab879c3b2809ca69fe326be02c4fb7ab24ce20f89d888e66afd"
+
+[[files]]
+file = "overrides/shaderpacks/Bliss-Shader-ArdaCraft-Settings/shaders/lib/specular.glsl"
+hash = "1807daaa8b95981fb142d39540fbde749abe9866d82e80de9b672a43fe869aee"
+
+[[files]]
+file = "overrides/shaderpacks/Bliss-Shader-ArdaCraft-Settings/shaders/lib/stars.glsl"
+hash = "ebb69a4fc66862610c73f8e64cf627a3b793441cbdf1b6b977ad9b7bc9239677"
+
+[[files]]
+file = "overrides/shaderpacks/Bliss-Shader-ArdaCraft-Settings/shaders/lib/texFiltering.glsl"
+hash = "8575f5a87133843f79c884743ed49430ef4750c82bd9e8c6497fac097060f2a4"
+
+[[files]]
+file = "overrides/shaderpacks/Bliss-Shader-ArdaCraft-Settings/shaders/lib/util.glsl"
+hash = "70a0f58d7e9ac5ea3e1905b9d8aab20a19d3da2d6fb18314d84da94a2a3c10e9"
+
+[[files]]
+file = "overrides/shaderpacks/Bliss-Shader-ArdaCraft-Settings/shaders/lib/volumetricClouds.glsl"
+hash = "7e3f94d07e4fe61ec31956d59248b82f359177fe4d434854671aa87f7bfefebd"
+
+[[files]]
+file = "overrides/shaderpacks/Bliss-Shader-ArdaCraft-Settings/shaders/lib/voxel_common.glsl"
+hash = "9653c0d8abcb31eec5adc0798dc0d07d69d754c11d6e588738433436cd9b3751"
+
+[[files]]
+file = "overrides/shaderpacks/Bliss-Shader-ArdaCraft-Settings/shaders/lib/voxel_write.glsl"
+hash = "9336f74262458a75a4f483c06cb7ee7927c2f36c1556fcfe30f1f6845649410b"
+
+[[files]]
+file = "overrides/shaderpacks/Bliss-Shader-ArdaCraft-Settings/shaders/lib/waterBump.glsl"
+hash = "f0e098402db371368396363d0a5b92bfc22d2337d9148f59f58c3bdb1ef26b9a"
+
+[[files]]
+file = "overrides/shaderpacks/Bliss-Shader-ArdaCraft-Settings/shaders/shaders.properties"
+hash = "ee09e3dc3ecb5d88cf551ba53a6d423baab95439d3cd1b05546960cf60d39511"
+
+[[files]]
+file = "overrides/shaderpacks/Bliss-Shader-ArdaCraft-Settings/shaders/template/block.properties"
+hash = "6e3d14394badb300f8b1a52c4ef570e0764bd888892670e9d10ab5a3823088f1"
+
+[[files]]
+file = "overrides/shaderpacks/Bliss-Shader-ArdaCraft-Settings/shaders/template/entity.properties"
+hash = "29264c498c3dadfe4a023e80725213b205519f33c56afcd9f1c0effa7ca1bf51"
+
+[[files]]
+file = "overrides/shaderpacks/Bliss-Shader-ArdaCraft-Settings/shaders/template/item.properties"
+hash = "3fb5ef14b070ed7601310aca6406b1b351de1c3a8b6e3bbb0b026e69602cabe0"
+
+[[files]]
+file = "overrides/shaderpacks/Bliss-Shader-ArdaCraft-Settings/shaders/template/readme.md"
+hash = "530dddf51033c9d986f0a13fed80f573001f9203da77531fcb8bab386072d41f"
+
+[[files]]
+file = "overrides/shaderpacks/Bliss-Shader-ArdaCraft-Settings/shaders/template/update.sh"
+hash = "d9a1a90593844a4ddf66dc0fecfc8d0c4b787b8d539abdc90e73fe882ef2b513"
+
+[[files]]
+file = "overrides/shaderpacks/Bliss-Shader-ArdaCraft-Settings/shaders/texture/blueNoise.png"
+hash = "12d5213f40b9fbf8b98f990dfdcd0627d6abe0dc96d402b471175cf54ea23e65"
+
+[[files]]
+file = "overrides/shaderpacks/Bliss-Shader-ArdaCraft-Settings/shaders/texture/blueNoise.png.mcmeta"
+hash = "7f447458dce74ae0fe936ba8dd11f0cdb30e36d4e99ca93f82ce8966d25ed9d2"
+
+[[files]]
+file = "overrides/shaderpacks/Bliss-Shader-ArdaCraft-Settings/shaders/texture/noises.png"
+hash = "77d1aa0c2195a4f644296b681295865cdb3c71bb6c380b69c2f43338f653acf5"
+
+[[files]]
+file = "overrides/shaderpacks/Bliss-Shader-ArdaCraft-Settings/shaders/texture/noises.png.mcmeta"
+hash = "7f447458dce74ae0fe936ba8dd11f0cdb30e36d4e99ca93f82ce8966d25ed9d2"
+
+[[files]]
+file = "overrides/shaderpacks/Bliss-Shader-ArdaCraft-Settings/shaders/world-1/composite.fsh"
+hash = "282615b32164e879f33e117bf57ea98072523848625d2da4d6d667a1359f0c3f"
+
+[[files]]
+file = "overrides/shaderpacks/Bliss-Shader-ArdaCraft-Settings/shaders/world-1/composite.vsh"
+hash = "7b13b397cc71d771f4a5fb3013e2595d5b7956931cdacd84bb80a1eb40802bac"
+
+[[files]]
+file = "overrides/shaderpacks/Bliss-Shader-ArdaCraft-Settings/shaders/world-1/composite1.fsh"
+hash = "1d0b8bf1ccd7ccaa1df82c04205b438abe6d1db1e510509a40f48159488195df"
+
+[[files]]
+file = "overrides/shaderpacks/Bliss-Shader-ArdaCraft-Settings/shaders/world-1/composite1.vsh"
+hash = "7e9f7402ad2e07dca74528409b0062285fa34da536a52fead98632e562da6830"
+
+[[files]]
+file = "overrides/shaderpacks/Bliss-Shader-ArdaCraft-Settings/shaders/world-1/composite10.fsh"
+hash = "f7b028ff63492a1c8f12f2df0da7b785260762b589cf4327395362a0c59dccf5"
+
+[[files]]
+file = "overrides/shaderpacks/Bliss-Shader-ArdaCraft-Settings/shaders/world-1/composite10.vsh"
+hash = "f49645c75024b48e0cd04ca55a42fc53b37da1567f09cda16a3bc4b58789233e"
+
+[[files]]
+file = "overrides/shaderpacks/Bliss-Shader-ArdaCraft-Settings/shaders/world-1/composite11.fsh"
+hash = "4bb1e5145eeed7be4ac67a6ba1a2986a515eb168dab5b82651832c5eeada0860"
+
+[[files]]
+file = "overrides/shaderpacks/Bliss-Shader-ArdaCraft-Settings/shaders/world-1/composite11.vsh"
+hash = "ea0f1a9930b4559c5980bd3b663ad46ab47bf56d86ef4bdf8888f04f75e1aa8e"
+
+[[files]]
+file = "overrides/shaderpacks/Bliss-Shader-ArdaCraft-Settings/shaders/world-1/composite12.fsh"
+hash = "bafb35000a5f1f3eee4f0efdde2ff62cf8d878afac48e3d7a886b2796b0e23b6"
+
+[[files]]
+file = "overrides/shaderpacks/Bliss-Shader-ArdaCraft-Settings/shaders/world-1/composite12.vsh"
+hash = "28177dd4f153eebe0fd3570ed24451b091863b31b5bac972d2bc157f5b678aec"
+
+[[files]]
+file = "overrides/shaderpacks/Bliss-Shader-ArdaCraft-Settings/shaders/world-1/composite13.fsh"
+hash = "15e13e3d336666aebfc287e3658b911129a94c2de52968dea4b9334bb91c671c"
+
+[[files]]
+file = "overrides/shaderpacks/Bliss-Shader-ArdaCraft-Settings/shaders/world-1/composite13.vsh"
+hash = "d6d66803607c021929c6b1feb2d961d350768d670735d462e9925d1d6095504c"
+
+[[files]]
+file = "overrides/shaderpacks/Bliss-Shader-ArdaCraft-Settings/shaders/world-1/composite2.fsh"
+hash = "11ecb5d89b9b4262e68028e12fd13d766796b92ccc216715d856ffa2f17ab5e1"
+
+[[files]]
+file = "overrides/shaderpacks/Bliss-Shader-ArdaCraft-Settings/shaders/world-1/composite2.vsh"
+hash = "ef653b0df5ea4a336c456367e534a7edd41a25d8b999327600c4f543065c032b"
+
+[[files]]
+file = "overrides/shaderpacks/Bliss-Shader-ArdaCraft-Settings/shaders/world-1/composite3.fsh"
+hash = "c853e24c78f9652a76ed644ad77f517d89cd0de184a62b5a26a3874a36a132ba"
+
+[[files]]
+file = "overrides/shaderpacks/Bliss-Shader-ArdaCraft-Settings/shaders/world-1/composite3.vsh"
+hash = "ede6a5b2e4739d4789bd2045fdbee540c7970a7f15a99c15dd734c25a78e849a"
+
+[[files]]
+file = "overrides/shaderpacks/Bliss-Shader-ArdaCraft-Settings/shaders/world-1/composite4.fsh"
+hash = "78a7ff59f7ea8e1d39f2808257fc43f6ff2c56665a3e7524fcd1d4c945778909"
+
+[[files]]
+file = "overrides/shaderpacks/Bliss-Shader-ArdaCraft-Settings/shaders/world-1/composite4.vsh"
+hash = "ef324d41df02740dae73080f851d0fe3575db848c2e45d6e263a3809137d7195"
+
+[[files]]
+file = "overrides/shaderpacks/Bliss-Shader-ArdaCraft-Settings/shaders/world-1/composite5.fsh"
+hash = "52651577f858762c711f94fa15515886a5f612cbf985ed25c55f407a78c92cef"
+
+[[files]]
+file = "overrides/shaderpacks/Bliss-Shader-ArdaCraft-Settings/shaders/world-1/composite5.vsh"
+hash = "4d92af8d81abbcf338e711aac56c1ae4eb0c4162502b93bdab862f9374aa2746"
+
+[[files]]
+file = "overrides/shaderpacks/Bliss-Shader-ArdaCraft-Settings/shaders/world-1/composite6.fsh"
+hash = "f1664ff29db66f372b64fe49119e88021fcf5e75c0e68fcdb709c353582b58c5"
+
+[[files]]
+file = "overrides/shaderpacks/Bliss-Shader-ArdaCraft-Settings/shaders/world-1/composite6.vsh"
+hash = "09c393d06ce25c31749486d68b4e5276243d906a24a787e1b4ed36b349bba55e"
+
+[[files]]
+file = "overrides/shaderpacks/Bliss-Shader-ArdaCraft-Settings/shaders/world-1/composite7.fsh"
+hash = "d4de5124f77f9c071f96256bdc1485a53a32866a9d6e1328fa33e2d7825660e8"
+
+[[files]]
+file = "overrides/shaderpacks/Bliss-Shader-ArdaCraft-Settings/shaders/world-1/composite7.vsh"
+hash = "0509971442171127f43c716c3f9ab04f3b072b9a424a9882c1e2de076b5f4234"
+
+[[files]]
+file = "overrides/shaderpacks/Bliss-Shader-ArdaCraft-Settings/shaders/world-1/composite8.fsh"
+hash = "393ef6386a1a32df027d647af9cbd349f7c8cd1a984e422be3dfc11f4cf40866"
+
+[[files]]
+file = "overrides/shaderpacks/Bliss-Shader-ArdaCraft-Settings/shaders/world-1/composite8.vsh"
+hash = "1b29969c2aa62dce2dcf5ebf6280e3edeb388f915748185b39abf26b949c80e2"
+
+[[files]]
+file = "overrides/shaderpacks/Bliss-Shader-ArdaCraft-Settings/shaders/world-1/composite9.fsh"
+hash = "ab02b11c1a91fa0314302c7139ea2982e0dedbd3241d68eb2767d0ca2f341ac4"
+
+[[files]]
+file = "overrides/shaderpacks/Bliss-Shader-ArdaCraft-Settings/shaders/world-1/composite9.vsh"
+hash = "b2d7610816a32604e1fe5ab5553f3e265c258f16275a23d6692872fa81841fe8"
+
+[[files]]
+file = "overrides/shaderpacks/Bliss-Shader-ArdaCraft-Settings/shaders/world-1/deferred.fsh"
+hash = "9a92c3f0d5b5d0cd6ebf4968375cf7034d96a73a44b57a25325b73fd4c264dd4"
+
+[[files]]
+file = "overrides/shaderpacks/Bliss-Shader-ArdaCraft-Settings/shaders/world-1/deferred.vsh"
+hash = "87640f37fef90b3614e8229e174392c08516b49360178defcc057d00cd14ca0f"
+
+[[files]]
+file = "overrides/shaderpacks/Bliss-Shader-ArdaCraft-Settings/shaders/world-1/deferred1.fsh"
+hash = "f0973adbe6c6111b828150ef977b55eccadfae05baf69b0dcb0c732b3bd232c5"
+
+[[files]]
+file = "overrides/shaderpacks/Bliss-Shader-ArdaCraft-Settings/shaders/world-1/deferred1.vsh"
+hash = "70817649eecc01462a0b339ea72cf805110869fe08a1310157f3fc313285fe69"
+
+[[files]]
+file = "overrides/shaderpacks/Bliss-Shader-ArdaCraft-Settings/shaders/world-1/dh_terrain.fsh"
+hash = "a847b4f093995a811822b510d8b164cfd77e7dccbbb8d0cdffa2986f3db5fcd0"
+
+[[files]]
+file = "overrides/shaderpacks/Bliss-Shader-ArdaCraft-Settings/shaders/world-1/dh_terrain.vsh"
+hash = "2e68f5cef3244385d67154160cbb1b2af7b1ba99f15f6ff6963e4c1de858fc23"
+
+[[files]]
+file = "overrides/shaderpacks/Bliss-Shader-ArdaCraft-Settings/shaders/world-1/dh_water.fsh"
+hash = "ff5c77e2e34ce0ae79ac765bd1237e24f4fe6bc44726e70785cc32e98bf00cd9"
+
+[[files]]
+file = "overrides/shaderpacks/Bliss-Shader-ArdaCraft-Settings/shaders/world-1/dh_water.vsh"
+hash = "c891f09d5504a105c07d1ebe5c78067dc269bb236f646e23f8abdac6bf8f9059"
+
+[[files]]
+file = "overrides/shaderpacks/Bliss-Shader-ArdaCraft-Settings/shaders/world-1/final.fsh"
+hash = "788ccb1a8f3b49f390436cb468417c1d419c28447ca49004c8a9afe5ce6ca859"
+
+[[files]]
+file = "overrides/shaderpacks/Bliss-Shader-ArdaCraft-Settings/shaders/world-1/final.vsh"
+hash = "da3cd92f2b93e2befb6d69c82529d977fd9dec412d21dd8febbe48dc88c3029e"
+
+[[files]]
+file = "overrides/shaderpacks/Bliss-Shader-ArdaCraft-Settings/shaders/world-1/gbuffers_armor_glint.fsh"
+hash = "32e811b3025864963481994a0ff4ba59f913cd3416a34d5be0beef21cf54800d"
+
+[[files]]
+file = "overrides/shaderpacks/Bliss-Shader-ArdaCraft-Settings/shaders/world-1/gbuffers_armor_glint.vsh"
+hash = "b2e4370a1c5ef9702ce07d6cdd9f9ddf612030a9b7d1070a7cdec0a2cbfa0f84"
+
+[[files]]
+file = "overrides/shaderpacks/Bliss-Shader-ArdaCraft-Settings/shaders/world-1/gbuffers_basic.fsh"
+hash = "a85b3f7402fad33d55cb13694fff567ef98b7d277fb09fccfda10a57c498c610"
+
+[[files]]
+file = "overrides/shaderpacks/Bliss-Shader-ArdaCraft-Settings/shaders/world-1/gbuffers_basic.vsh"
+hash = "5227dd3169895dd813a0289d0c74ebced00eff631d1c49f6efb857563d13db75"
+
+[[files]]
+file = "overrides/shaderpacks/Bliss-Shader-ArdaCraft-Settings/shaders/world-1/gbuffers_beaconbeam.fsh"
+hash = "d99c4fc07d57177437042a9bb4015c45fb7a5306c6dbdcde9047ec1d79e776c9"
+
+[[files]]
+file = "overrides/shaderpacks/Bliss-Shader-ArdaCraft-Settings/shaders/world-1/gbuffers_beaconbeam.vsh"
+hash = "cacdb30330c55c45842c766c53dca496ae82a7f2e00a5d43506940c5f6080f1a"
+
+[[files]]
+file = "overrides/shaderpacks/Bliss-Shader-ArdaCraft-Settings/shaders/world-1/gbuffers_block.fsh"
+hash = "5fd42f20ad175e1cf1d356be468097008cee1adc14c4cc5b6e3ccd103209764d"
+
+[[files]]
+file = "overrides/shaderpacks/Bliss-Shader-ArdaCraft-Settings/shaders/world-1/gbuffers_block.vsh"
+hash = "fd961db5518c9b9b8ff4af847fa5186cfd87ae5df00bc183a2247202d4327bb9"
+
+[[files]]
+file = "overrides/shaderpacks/Bliss-Shader-ArdaCraft-Settings/shaders/world-1/gbuffers_block_translucent.fsh"
+hash = "596152d57ec9884f0a70e4b7a5353e2bac8b9ba67897888263316b698d5b9e07"
+
+[[files]]
+file = "overrides/shaderpacks/Bliss-Shader-ArdaCraft-Settings/shaders/world-1/gbuffers_block_translucent.vsh"
+hash = "2cf20ecb484d7b397c8aa9a3d7399aa2a4eeb2bc4f277eaa3003c94d19d41d3f"
+
+[[files]]
+file = "overrides/shaderpacks/Bliss-Shader-ArdaCraft-Settings/shaders/world-1/gbuffers_damagedblock.fsh"
+hash = "b6e35a15283c4cf9f1fe56fd00997810617e860d325014b57b0fc0aabb0d24f6"
+
+[[files]]
+file = "overrides/shaderpacks/Bliss-Shader-ArdaCraft-Settings/shaders/world-1/gbuffers_damagedblock.vsh"
+hash = "5b22607c67262010f9a382cdeaae113f9e2a6fd4dc2d24c0ba64037b2e0c4a9f"
+
+[[files]]
+file = "overrides/shaderpacks/Bliss-Shader-ArdaCraft-Settings/shaders/world-1/gbuffers_entities.fsh"
+hash = "aff5ee5bc7cf4019a4c988be21660a38049e3ac7934e4f07697ec5105a1c8d43"
+
+[[files]]
+file = "overrides/shaderpacks/Bliss-Shader-ArdaCraft-Settings/shaders/world-1/gbuffers_entities.vsh"
+hash = "c732186f71ca5744e1da058b7bcedddc9f04e815c373ccd65677ff960ffd13aa"
+
+[[files]]
+file = "overrides/shaderpacks/Bliss-Shader-ArdaCraft-Settings/shaders/world-1/gbuffers_entities_glowing.fsh"
+hash = "98a5f42db2d07d4fcb6acd8a2aec22443ace778c2cc653148f83794b27b2f09f"
+
+[[files]]
+file = "overrides/shaderpacks/Bliss-Shader-ArdaCraft-Settings/shaders/world-1/gbuffers_entities_glowing.vsh"
+hash = "491479dce079af7f2a6f053038c6e013fc9772c5923b225f0ca0289371741e63"
+
+[[files]]
+file = "overrides/shaderpacks/Bliss-Shader-ArdaCraft-Settings/shaders/world-1/gbuffers_entities_translucent.fsh"
+hash = "49dafdb9e26c6928c65fe85b39cfbaeecea659338b93e27c2cff2fbbdd82a52d"
+
+[[files]]
+file = "overrides/shaderpacks/Bliss-Shader-ArdaCraft-Settings/shaders/world-1/gbuffers_entities_translucent.vsh"
+hash = "4a3fa72b5297a8e4714bffb073e50abc52c50ef73489f4c9c176548beeffa7e7"
+
+[[files]]
+file = "overrides/shaderpacks/Bliss-Shader-ArdaCraft-Settings/shaders/world-1/gbuffers_hand.fsh"
+hash = "3df8f73bb8e8a5f7b19bc43fd830983a010b56f7d3fbb36f8b8a94509a32f7ec"
+
+[[files]]
+file = "overrides/shaderpacks/Bliss-Shader-ArdaCraft-Settings/shaders/world-1/gbuffers_hand.vsh"
+hash = "117aa4a5d23beaea92a5464c95bf14eddb3534b82f212a1af750d399d09087a9"
+
+[[files]]
+file = "overrides/shaderpacks/Bliss-Shader-ArdaCraft-Settings/shaders/world-1/gbuffers_hand_water.fsh"
+hash = "206c62116e9c4caf0ef49c7abb896f9a9685286228c39d235ff3856876a0dc64"
+
+[[files]]
+file = "overrides/shaderpacks/Bliss-Shader-ArdaCraft-Settings/shaders/world-1/gbuffers_hand_water.vsh"
+hash = "ec240a2da5f42fc98fd4daf7b29331cdaba467463c15fea297dd63a1a238ca64"
+
+[[files]]
+file = "overrides/shaderpacks/Bliss-Shader-ArdaCraft-Settings/shaders/world-1/gbuffers_skybasic.fsh"
+hash = "11403a84af9a8f792c7f8314e47a4baf15357794a103c7f46ad182e597f816d8"
+
+[[files]]
+file = "overrides/shaderpacks/Bliss-Shader-ArdaCraft-Settings/shaders/world-1/gbuffers_skybasic.vsh"
+hash = "71fb12008e1e39faf821eeac1026c05c879b823be7eccec6ad87a423cdcbf52f"
+
+[[files]]
+file = "overrides/shaderpacks/Bliss-Shader-ArdaCraft-Settings/shaders/world-1/gbuffers_skytextured.fsh"
+hash = "11403a84af9a8f792c7f8314e47a4baf15357794a103c7f46ad182e597f816d8"
+
+[[files]]
+file = "overrides/shaderpacks/Bliss-Shader-ArdaCraft-Settings/shaders/world-1/gbuffers_skytextured.vsh"
+hash = "71fb12008e1e39faf821eeac1026c05c879b823be7eccec6ad87a423cdcbf52f"
+
+[[files]]
+file = "overrides/shaderpacks/Bliss-Shader-ArdaCraft-Settings/shaders/world-1/gbuffers_spidereyes.fsh"
+hash = "2571f13b24309a1c9b2b98498447cb31269650b8e2438dbdd7ddc4caf981ae03"
+
+[[files]]
+file = "overrides/shaderpacks/Bliss-Shader-ArdaCraft-Settings/shaders/world-1/gbuffers_spidereyes.vsh"
+hash = "7eb36b94722183f8570e14fb9b6a4a254fa93d51ffd0b478a6363c9577f6ab6b"
+
+[[files]]
+file = "overrides/shaderpacks/Bliss-Shader-ArdaCraft-Settings/shaders/world-1/gbuffers_terrain.fsh"
+hash = "22b6ae58fd2a9a3a8516cd266b54b22d3252b31c4b947e74d90bde58f242bdeb"
+
+[[files]]
+file = "overrides/shaderpacks/Bliss-Shader-ArdaCraft-Settings/shaders/world-1/gbuffers_terrain.vsh"
+hash = "5acb3992736112bd60f2add7922d38c34a2719ba5bc3a7078abcd0ccdfbabe18"
+
+[[files]]
+file = "overrides/shaderpacks/Bliss-Shader-ArdaCraft-Settings/shaders/world-1/gbuffers_textured.fsh"
+hash = "13d57dc8b0078e528e4d79864b310523cb6a2c78c880785ac054118dd01f367c"
+
+[[files]]
+file = "overrides/shaderpacks/Bliss-Shader-ArdaCraft-Settings/shaders/world-1/gbuffers_textured.vsh"
+hash = "c10a13aae84adc1ce31df92772cf5168cc4af6b4a9d7bb2c20f4b43f73ccc03b"
+
+[[files]]
+file = "overrides/shaderpacks/Bliss-Shader-ArdaCraft-Settings/shaders/world-1/gbuffers_textured_lit.fsh"
+hash = "4a4377a3869c7639b1ef2a679345a3f21c6a161c62d435834c86eb3369a7f721"
+
+[[files]]
+file = "overrides/shaderpacks/Bliss-Shader-ArdaCraft-Settings/shaders/world-1/gbuffers_textured_lit.vsh"
+hash = "05ca228a17cb0d9cd8f0dd1ee63c9ea835497ef6e1d4d862bcb9d89ca8e664ec"
+
+[[files]]
+file = "overrides/shaderpacks/Bliss-Shader-ArdaCraft-Settings/shaders/world-1/gbuffers_water.fsh"
+hash = "3c65e9e1d34aefb899ba9acf93372d26aa282a9132052f5f8f4ffcea9f2e6c02"
+
+[[files]]
+file = "overrides/shaderpacks/Bliss-Shader-ArdaCraft-Settings/shaders/world-1/gbuffers_water.vsh"
+hash = "0d82c4a9c9ab7a6fd7e1087993b535bd41d3ef281b66038998a0f0597e565ac7"
+
+[[files]]
+file = "overrides/shaderpacks/Bliss-Shader-ArdaCraft-Settings/shaders/world-1/gbuffers_weather.fsh"
+hash = "746c1ebde7390283462de090207b4f6c74aa9842b0a559de66b00b732b85e7dc"
+
+[[files]]
+file = "overrides/shaderpacks/Bliss-Shader-ArdaCraft-Settings/shaders/world-1/gbuffers_weather.vsh"
+hash = "eeae836fb5d129b7f2e08f064749f4b605420bfa9e1a5cb293894b5a209f0474"
+
+[[files]]
+file = "overrides/shaderpacks/Bliss-Shader-ArdaCraft-Settings/shaders/world-1/setup.csh"
+hash = "67110eefeee00696b60c9516c2ed9dca6d472b2cb1ce3c578ed5b19076962513"
+
+[[files]]
+file = "overrides/shaderpacks/Bliss-Shader-ArdaCraft-Settings/shaders/world-1/shadow.fsh"
+hash = "ef26bf9900023974b9efa2a29764d81ba493dddc9c7247b78b6ed4bc83e7fd40"
+
+[[files]]
+file = "overrides/shaderpacks/Bliss-Shader-ArdaCraft-Settings/shaders/world-1/shadow.vsh"
+hash = "4fbd5d4e21a8463a1a9e5ba9ed16d27083732113f879817083a19093113b3791"
+
+[[files]]
+file = "overrides/shaderpacks/Bliss-Shader-ArdaCraft-Settings/shaders/world-1/shadowcomp.csh"
+hash = "a7bea9eb7dc23939124e11d1e998e44a16ef5fa8b7fdf12553da12514cc2c730"
+
+[[files]]
+file = "overrides/shaderpacks/Bliss-Shader-ArdaCraft-Settings/shaders/world0/composite.fsh"
+hash = "2b93a360959d8b8f875411c439d00c63af1d4b0dc00740419f4542049c120fa8"
+
+[[files]]
+file = "overrides/shaderpacks/Bliss-Shader-ArdaCraft-Settings/shaders/world0/composite.vsh"
+hash = "ad8fe99340f65bb8b9a71e91c572d9b133809c6955a476cb94a97615b015cc13"
+
+[[files]]
+file = "overrides/shaderpacks/Bliss-Shader-ArdaCraft-Settings/shaders/world0/composite1.fsh"
+hash = "6c7bbaf4793ac0abfcab2ff85ab5019354348175c777edcc125536ba67f02740"
+
+[[files]]
+file = "overrides/shaderpacks/Bliss-Shader-ArdaCraft-Settings/shaders/world0/composite1.vsh"
+hash = "d9080d8b3e047ef93b5ab4d7e264eab61b4602ecaddaa5c67a24a7a5b4aff8fa"
+
+[[files]]
+file = "overrides/shaderpacks/Bliss-Shader-ArdaCraft-Settings/shaders/world0/composite10.fsh"
+hash = "690d6686daf07aa561ff0d26b3bc87dbb148f23eba63504d83b9acb849809e60"
+
+[[files]]
+file = "overrides/shaderpacks/Bliss-Shader-ArdaCraft-Settings/shaders/world0/composite10.vsh"
+hash = "148b177c7c726fe958e6e6875f5f790b1aaa86a3de73c19629d20e24ba91dc46"
+
+[[files]]
+file = "overrides/shaderpacks/Bliss-Shader-ArdaCraft-Settings/shaders/world0/composite11.fsh"
+hash = "a8c5b161c931e6334db86db0537a03fcf51d1c95cb003d79fa891f81e2d00b2f"
+
+[[files]]
+file = "overrides/shaderpacks/Bliss-Shader-ArdaCraft-Settings/shaders/world0/composite11.vsh"
+hash = "bbfcd9105c46c960b170a504e40a014f655c5459a6bc6ca2e77f6b62ce0a49b8"
+
+[[files]]
+file = "overrides/shaderpacks/Bliss-Shader-ArdaCraft-Settings/shaders/world0/composite12.fsh"
+hash = "499d03d3da6dc780df0763a3eb54e543353b6a3c38bd6dbf671993c09c97f3fe"
+
+[[files]]
+file = "overrides/shaderpacks/Bliss-Shader-ArdaCraft-Settings/shaders/world0/composite12.vsh"
+hash = "029999e32bcc3ada54666c9fd8ceae7596397a667568805064a9bbb9d4c4d4dc"
+
+[[files]]
+file = "overrides/shaderpacks/Bliss-Shader-ArdaCraft-Settings/shaders/world0/composite13.fsh"
+hash = "15e13e3d336666aebfc287e3658b911129a94c2de52968dea4b9334bb91c671c"
+
+[[files]]
+file = "overrides/shaderpacks/Bliss-Shader-ArdaCraft-Settings/shaders/world0/composite13.vsh"
+hash = "d6d66803607c021929c6b1feb2d961d350768d670735d462e9925d1d6095504c"
+
+[[files]]
+file = "overrides/shaderpacks/Bliss-Shader-ArdaCraft-Settings/shaders/world0/composite2.fsh"
+hash = "707c787a8021ec9906ea80e37ee664b556a827bdd40445442b3db9b849ebe36c"
+
+[[files]]
+file = "overrides/shaderpacks/Bliss-Shader-ArdaCraft-Settings/shaders/world0/composite2.vsh"
+hash = "3ba0a546e8633de457a15ca90204fd25f55db27fb332c13c8c764431347466c8"
+
+[[files]]
+file = "overrides/shaderpacks/Bliss-Shader-ArdaCraft-Settings/shaders/world0/composite3.fsh"
+hash = "0e2ed7e6ea098fa822d64f34804a23ad939b02cc17dbdbf1cb401a6afebec1d0"
+
+[[files]]
+file = "overrides/shaderpacks/Bliss-Shader-ArdaCraft-Settings/shaders/world0/composite3.vsh"
+hash = "4738ebc9618d61a543061c68feb697bcd412e29e6acfece0bc154fb1b53b5e07"
+
+[[files]]
+file = "overrides/shaderpacks/Bliss-Shader-ArdaCraft-Settings/shaders/world0/composite4.fsh"
+hash = "d46031be67969cc3171b2ee4a27f3681710a15b5fefecd6cd3c7f7ee0bbfe2bf"
+
+[[files]]
+file = "overrides/shaderpacks/Bliss-Shader-ArdaCraft-Settings/shaders/world0/composite4.vsh"
+hash = "28b613f594faed0befa4f7ef7edd3a3daa5c862830f97c583a6d8a9407fa7c40"
+
+[[files]]
+file = "overrides/shaderpacks/Bliss-Shader-ArdaCraft-Settings/shaders/world0/composite5.fsh"
+hash = "3c3aafdf7226bc20c5709027403ccb2f78dd8f1433b2f2561aaf3dc0fe44bdaf"
+
+[[files]]
+file = "overrides/shaderpacks/Bliss-Shader-ArdaCraft-Settings/shaders/world0/composite5.vsh"
+hash = "1a57728794c02aebc99470ff4903ff35672d93dd7d4589e57d6bf7c4fe340dcb"
+
+[[files]]
+file = "overrides/shaderpacks/Bliss-Shader-ArdaCraft-Settings/shaders/world0/composite6.fsh"
+hash = "9d225c0bb34488cb8c97823e4c2bd0cff8816f2f526ce19b9b76ab4de94118bd"
+
+[[files]]
+file = "overrides/shaderpacks/Bliss-Shader-ArdaCraft-Settings/shaders/world0/composite6.vsh"
+hash = "54ba4499d3a4d354466c7c7224fe2d382ec4015405631d9c223a033bdb943c02"
+
+[[files]]
+file = "overrides/shaderpacks/Bliss-Shader-ArdaCraft-Settings/shaders/world0/composite7.fsh"
+hash = "665eb23fb1f71648560129116d6c2076c1e2da0b025acd4715b84f5bffb4e56f"
+
+[[files]]
+file = "overrides/shaderpacks/Bliss-Shader-ArdaCraft-Settings/shaders/world0/composite7.vsh"
+hash = "f813e355e807b87bcd0eecf53c143b96ec1751121f5498c5d475cd7220adf137"
+
+[[files]]
+file = "overrides/shaderpacks/Bliss-Shader-ArdaCraft-Settings/shaders/world0/composite8.fsh"
+hash = "76688afb9a3fd8d0693c9d76ebe2796402a94a17c54fe3183a8b6a3eab10f020"
+
+[[files]]
+file = "overrides/shaderpacks/Bliss-Shader-ArdaCraft-Settings/shaders/world0/composite8.vsh"
+hash = "341b0d24be4bed5acdeb7d7754d68392e808996770a9c9fcd16c84a8dc114e3f"
+
+[[files]]
+file = "overrides/shaderpacks/Bliss-Shader-ArdaCraft-Settings/shaders/world0/composite9.fsh"
+hash = "3549504c5b2772c032bdfaed51c19ac06b9d6dee33884a282113c3d96fa36683"
+
+[[files]]
+file = "overrides/shaderpacks/Bliss-Shader-ArdaCraft-Settings/shaders/world0/composite9.vsh"
+hash = "d93aa0cf185c5d6d756572b3573a8a370e44a2a8240c47e3888c7fb40facdf2d"
+
+[[files]]
+file = "overrides/shaderpacks/Bliss-Shader-ArdaCraft-Settings/shaders/world0/deferred.fsh"
+hash = "e73c25730c12eea8cbe25277e6edfdff0ae58ab8368ec1e145415e810f4e4937"
+
+[[files]]
+file = "overrides/shaderpacks/Bliss-Shader-ArdaCraft-Settings/shaders/world0/deferred.vsh"
+hash = "6f24e70ca0f471c130cd3f3727b48d5f424fe4c4feb453ed326fcd335124c1d1"
+
+[[files]]
+file = "overrides/shaderpacks/Bliss-Shader-ArdaCraft-Settings/shaders/world0/deferred1.fsh"
+hash = "b8cc03fbd688852de865a33be9ed1a6951cd1caafa9976cd808b893bbb25082f"
+
+[[files]]
+file = "overrides/shaderpacks/Bliss-Shader-ArdaCraft-Settings/shaders/world0/deferred1.vsh"
+hash = "7905cebfbaa1c09267cd3d2e50098e02982554d39c5edc3f438ec9b9ee1dcecd"
+
+[[files]]
+file = "overrides/shaderpacks/Bliss-Shader-ArdaCraft-Settings/shaders/world0/deferred2.fsh"
+hash = "4b08c5e32f0e4c449895a0cef34d94ede8b7362b09c7bb2598214b8473f182e9"
+
+[[files]]
+file = "overrides/shaderpacks/Bliss-Shader-ArdaCraft-Settings/shaders/world0/deferred2.vsh"
+hash = "ea46bec3c53bde537b13a4f662ce7438218cf3d8693082a550ba9d3a187252b0"
+
+[[files]]
+file = "overrides/shaderpacks/Bliss-Shader-ArdaCraft-Settings/shaders/world0/dh_shadow.fsh"
+hash = "0eaeae1f0e490b74bd9f6ace28d31f354e7a590a5548eee538ff2b62f24f72f8"
+
+[[files]]
+file = "overrides/shaderpacks/Bliss-Shader-ArdaCraft-Settings/shaders/world0/dh_shadow.vsh"
+hash = "c56833bf71e410be7afb668fbffb5052299102afebf29d529e265836c570b5f0"
+
+[[files]]
+file = "overrides/shaderpacks/Bliss-Shader-ArdaCraft-Settings/shaders/world0/dh_terrain.fsh"
+hash = "65b4029612ea2a77ffd3122c6bfd481e0c366f1047887c06945352a4652164f5"
+
+[[files]]
+file = "overrides/shaderpacks/Bliss-Shader-ArdaCraft-Settings/shaders/world0/dh_terrain.vsh"
+hash = "4da255d9181b5a2a235ce5df774166d3f49677f5b08590b8a93d26d6add31152"
+
+[[files]]
+file = "overrides/shaderpacks/Bliss-Shader-ArdaCraft-Settings/shaders/world0/dh_water.fsh"
+hash = "74cfbf1494566ebf043ace13eda2fee3a79053b33a14ddd1a01fe75c68541648"
+
+[[files]]
+file = "overrides/shaderpacks/Bliss-Shader-ArdaCraft-Settings/shaders/world0/dh_water.vsh"
+hash = "d10f85fea62ccde20b1420ae1763b986ad37a28915d7fcf3c45f716d72c985f1"
+
+[[files]]
+file = "overrides/shaderpacks/Bliss-Shader-ArdaCraft-Settings/shaders/world0/final.fsh"
+hash = "1b433e5a6b3929b462387b854d9e5f072aa1623d2f86b4198ac9ab8d62569c02"
+
+[[files]]
+file = "overrides/shaderpacks/Bliss-Shader-ArdaCraft-Settings/shaders/world0/final.vsh"
+hash = "6fa5f068e9d0d54e8b3b2123c10a96917ca457a67da9053a80fb12feaf7d213d"
+
+[[files]]
+file = "overrides/shaderpacks/Bliss-Shader-ArdaCraft-Settings/shaders/world0/gbuffers_armor_glint.fsh"
+hash = "32e811b3025864963481994a0ff4ba59f913cd3416a34d5be0beef21cf54800d"
+
+[[files]]
+file = "overrides/shaderpacks/Bliss-Shader-ArdaCraft-Settings/shaders/world0/gbuffers_armor_glint.vsh"
+hash = "b2e4370a1c5ef9702ce07d6cdd9f9ddf612030a9b7d1070a7cdec0a2cbfa0f84"
+
+[[files]]
+file = "overrides/shaderpacks/Bliss-Shader-ArdaCraft-Settings/shaders/world0/gbuffers_basic.fsh"
+hash = "f4eeee4fc69cbae43dabca23e9326077a555ba5a1327ae17d7dad1baa1d92203"
+
+[[files]]
+file = "overrides/shaderpacks/Bliss-Shader-ArdaCraft-Settings/shaders/world0/gbuffers_basic.vsh"
+hash = "85f4f8e630388ae274ecb914de6d769c50ffe2495ce46a40012e85bbc5a9e98c"
+
+[[files]]
+file = "overrides/shaderpacks/Bliss-Shader-ArdaCraft-Settings/shaders/world0/gbuffers_beaconbeam.fsh"
+hash = "d99c4fc07d57177437042a9bb4015c45fb7a5306c6dbdcde9047ec1d79e776c9"
+
+[[files]]
+file = "overrides/shaderpacks/Bliss-Shader-ArdaCraft-Settings/shaders/world0/gbuffers_beaconbeam.vsh"
+hash = "cacdb30330c55c45842c766c53dca496ae82a7f2e00a5d43506940c5f6080f1a"
+
+[[files]]
+file = "overrides/shaderpacks/Bliss-Shader-ArdaCraft-Settings/shaders/world0/gbuffers_block.fsh"
+hash = "93f00fbb3d8abb170affb7e95a07a43ef0e999e5e70c48847205153650e889da"
+
+[[files]]
+file = "overrides/shaderpacks/Bliss-Shader-ArdaCraft-Settings/shaders/world0/gbuffers_block.vsh"
+hash = "9f373bd6391a137420b349aa73aff9d52089f722c659440477a06b758cf1b8fe"
+
+[[files]]
+file = "overrides/shaderpacks/Bliss-Shader-ArdaCraft-Settings/shaders/world0/gbuffers_block_translucent.fsh"
+hash = "31cda67fccda7fbb3ff85b1424975ed90a9529be5466d26f75523afc3d3982f4"
+
+[[files]]
+file = "overrides/shaderpacks/Bliss-Shader-ArdaCraft-Settings/shaders/world0/gbuffers_block_translucent.vsh"
+hash = "ffe18287237ae2ae7dc1a8642312d257a260525d5efa5f652b6819e5c8a94f72"
+
+[[files]]
+file = "overrides/shaderpacks/Bliss-Shader-ArdaCraft-Settings/shaders/world0/gbuffers_damagedblock.fsh"
+hash = "dce6cbfb9a856bad8a972c3e05099105706cb7de832603378e2d3229013273d5"
+
+[[files]]
+file = "overrides/shaderpacks/Bliss-Shader-ArdaCraft-Settings/shaders/world0/gbuffers_damagedblock.vsh"
+hash = "f3ed1ff3bec0809b3a6f172d738807d4dfd578e5049d4d94f5c50350258eb49d"
+
+[[files]]
+file = "overrides/shaderpacks/Bliss-Shader-ArdaCraft-Settings/shaders/world0/gbuffers_entities.fsh"
+hash = "12fdd6ac49c40fb96b4469f8b7f8966dfc295ce9afea956b8f5a2d8d17db3e0b"
+
+[[files]]
+file = "overrides/shaderpacks/Bliss-Shader-ArdaCraft-Settings/shaders/world0/gbuffers_entities.vsh"
+hash = "6de54e5f8f60a2b5cdc4ed033c3421bfe346fb354eadf458f82978fa939ce3a4"
+
+[[files]]
+file = "overrides/shaderpacks/Bliss-Shader-ArdaCraft-Settings/shaders/world0/gbuffers_entities_glowing.fsh"
+hash = "98a5f42db2d07d4fcb6acd8a2aec22443ace778c2cc653148f83794b27b2f09f"
+
+[[files]]
+file = "overrides/shaderpacks/Bliss-Shader-ArdaCraft-Settings/shaders/world0/gbuffers_entities_glowing.vsh"
+hash = "491479dce079af7f2a6f053038c6e013fc9772c5923b225f0ca0289371741e63"
+
+[[files]]
+file = "overrides/shaderpacks/Bliss-Shader-ArdaCraft-Settings/shaders/world0/gbuffers_entities_translucent.fsh"
+hash = "08fe33469e15ad5bd5654bd6c097d9cd9367e34e8116c0be48f0f9cd1b107289"
+
+[[files]]
+file = "overrides/shaderpacks/Bliss-Shader-ArdaCraft-Settings/shaders/world0/gbuffers_entities_translucent.vsh"
+hash = "48a359d825e9443236f4849a0fcdf66720dfa818dc357ad7e1d21312b921f1c9"
+
+[[files]]
+file = "overrides/shaderpacks/Bliss-Shader-ArdaCraft-Settings/shaders/world0/gbuffers_hand.fsh"
+hash = "0b2edfd336b357c67cbccbed5c1912f703c90833a9e4a03188cb7156c0a59ace"
+
+[[files]]
+file = "overrides/shaderpacks/Bliss-Shader-ArdaCraft-Settings/shaders/world0/gbuffers_hand.vsh"
+hash = "f838566a848b848e6b980ec425b723a5810eb39c0db645cc4a5fb6acb1cd0698"
+
+[[files]]
+file = "overrides/shaderpacks/Bliss-Shader-ArdaCraft-Settings/shaders/world0/gbuffers_hand_water.fsh"
+hash = "d1e6d0575cff5658fa3ac59ed58c699a1fd84b375f80ee07691d3a41db61ce15"
+
+[[files]]
+file = "overrides/shaderpacks/Bliss-Shader-ArdaCraft-Settings/shaders/world0/gbuffers_hand_water.vsh"
+hash = "1e7058c28bce936b91d3b10bbc0f5f68fe9aadbb71359b45430341d3d8df1016"
+
+[[files]]
+file = "overrides/shaderpacks/Bliss-Shader-ArdaCraft-Settings/shaders/world0/gbuffers_skybasic.fsh"
+hash = "2b1bd3049d26d048f7107fe032265763b5fc2b0b826616e95184d615c5e0d6c5"
+
+[[files]]
+file = "overrides/shaderpacks/Bliss-Shader-ArdaCraft-Settings/shaders/world0/gbuffers_skybasic.vsh"
+hash = "71fb12008e1e39faf821eeac1026c05c879b823be7eccec6ad87a423cdcbf52f"
+
+[[files]]
+file = "overrides/shaderpacks/Bliss-Shader-ArdaCraft-Settings/shaders/world0/gbuffers_skytextured.fsh"
+hash = "2d8b9251500e9199680432bbc9f7d52c2095dd9c46397620970486ba65c3d8d4"
+
+[[files]]
+file = "overrides/shaderpacks/Bliss-Shader-ArdaCraft-Settings/shaders/world0/gbuffers_skytextured.vsh"
+hash = "c4a05166cdcf1ce9f24f206b63ae232c556aac171dbc442d38122bdba07248ca"
+
+[[files]]
+file = "overrides/shaderpacks/Bliss-Shader-ArdaCraft-Settings/shaders/world0/gbuffers_spidereyes.fsh"
+hash = "2571f13b24309a1c9b2b98498447cb31269650b8e2438dbdd7ddc4caf981ae03"
+
+[[files]]
+file = "overrides/shaderpacks/Bliss-Shader-ArdaCraft-Settings/shaders/world0/gbuffers_spidereyes.vsh"
+hash = "7eb36b94722183f8570e14fb9b6a4a254fa93d51ffd0b478a6363c9577f6ab6b"
+
+[[files]]
+file = "overrides/shaderpacks/Bliss-Shader-ArdaCraft-Settings/shaders/world0/gbuffers_terrain.fsh"
+hash = "84751725bc9031efe4f861794a27b319f7f1e5c59ac3332f8dcd3eb0c03a9326"
+
+[[files]]
+file = "overrides/shaderpacks/Bliss-Shader-ArdaCraft-Settings/shaders/world0/gbuffers_terrain.vsh"
+hash = "855c4ef2803fafefeabc725deec032d1094ec2e15182bee48226eec577325674"
+
+[[files]]
+file = "overrides/shaderpacks/Bliss-Shader-ArdaCraft-Settings/shaders/world0/gbuffers_textured.fsh"
+hash = "023a8627ea3e965ac72cac1bd82e29f0b7dc638b9b3f7758cfdfad6f7ad9dc39"
+
+[[files]]
+file = "overrides/shaderpacks/Bliss-Shader-ArdaCraft-Settings/shaders/world0/gbuffers_textured.vsh"
+hash = "8a5efa206d9802ea6e0c10f1e3f9fcd9e523d4d94d35e19c8186382e12455619"
+
+[[files]]
+file = "overrides/shaderpacks/Bliss-Shader-ArdaCraft-Settings/shaders/world0/gbuffers_textured_lit.fsh"
+hash = "93c74fb01dcabad4b6732db52c2822b289b2c5463f6e52dea4bce34e2e9f1348"
+
+[[files]]
+file = "overrides/shaderpacks/Bliss-Shader-ArdaCraft-Settings/shaders/world0/gbuffers_textured_lit.vsh"
+hash = "4e569dc05133c669acd1a0c74cbe75046c7fb32a59aab67ff460d34979dbcf3c"
+
+[[files]]
+file = "overrides/shaderpacks/Bliss-Shader-ArdaCraft-Settings/shaders/world0/gbuffers_water.fsh"
+hash = "a8462542d26b824abbcaefce2529065280c2fe433b3273114ba870bc32e6e86d"
+
+[[files]]
+file = "overrides/shaderpacks/Bliss-Shader-ArdaCraft-Settings/shaders/world0/gbuffers_water.vsh"
+hash = "25cc06341065eafd80daa646eab2668e8b52e7fcf1c33a355456ccff72acb981"
+
+[[files]]
+file = "overrides/shaderpacks/Bliss-Shader-ArdaCraft-Settings/shaders/world0/gbuffers_weather.fsh"
+hash = "950d1c56dbc5590d03a870e88804516fabd9ac540f0dc95ea9264896dba88dac"
+
+[[files]]
+file = "overrides/shaderpacks/Bliss-Shader-ArdaCraft-Settings/shaders/world0/gbuffers_weather.vsh"
+hash = "1a0e1d208613a432994e4cd974dd2cbd17162ebf5dcf1a15ca02dd69a12e5de1"
+
+[[files]]
+file = "overrides/shaderpacks/Bliss-Shader-ArdaCraft-Settings/shaders/world0/setup.csh"
+hash = "67110eefeee00696b60c9516c2ed9dca6d472b2cb1ce3c578ed5b19076962513"
+
+[[files]]
+file = "overrides/shaderpacks/Bliss-Shader-ArdaCraft-Settings/shaders/world0/shadow.fsh"
+hash = "722f2d786c516a15214bfcd62cdc0e8e6a64ad2545c814d21893ba32a6768a82"
+
+[[files]]
+file = "overrides/shaderpacks/Bliss-Shader-ArdaCraft-Settings/shaders/world0/shadow.vsh"
+hash = "38ac2221da31ef30e97e5e0483f785443c61d65e0cca97f7a9e3edeb0bc18776"
+
+[[files]]
+file = "overrides/shaderpacks/Bliss-Shader-ArdaCraft-Settings/shaders/world0/shadowcomp.csh"
+hash = "a7bea9eb7dc23939124e11d1e998e44a16ef5fa8b7fdf12553da12514cc2c730"
+
+[[files]]
+file = "overrides/shaderpacks/Bliss-Shader-ArdaCraft-Settings/shaders/world1/composite.fsh"
+hash = "e756ed982aa7f9c0d2a67c529d40b138aa3780b84c40c7d922abc28e75235d47"
+
+[[files]]
+file = "overrides/shaderpacks/Bliss-Shader-ArdaCraft-Settings/shaders/world1/composite.vsh"
+hash = "363d2a5d69d5652e88d03611783375a4017426b0a14cce351aa6ef5a67da8885"
+
+[[files]]
+file = "overrides/shaderpacks/Bliss-Shader-ArdaCraft-Settings/shaders/world1/composite1.fsh"
+hash = "9e48359d91262cf2288c2d014d2b7cb1fadd569df233d16517ba0b09f2f5dcc0"
+
+[[files]]
+file = "overrides/shaderpacks/Bliss-Shader-ArdaCraft-Settings/shaders/world1/composite1.vsh"
+hash = "677cd3073fdaf417f91a35745b570ca8fc5c452754c47ad8513092f9363716c0"
+
+[[files]]
+file = "overrides/shaderpacks/Bliss-Shader-ArdaCraft-Settings/shaders/world1/composite10.fsh"
+hash = "25e1893a67da5f30f02c88e3f16f5002472905d7acabe4e6a8fdc686425f0b46"
+
+[[files]]
+file = "overrides/shaderpacks/Bliss-Shader-ArdaCraft-Settings/shaders/world1/composite10.vsh"
+hash = "60890821f40e5fa244bf6cf33814a6290a90d19df3362285df0714a05001019a"
+
+[[files]]
+file = "overrides/shaderpacks/Bliss-Shader-ArdaCraft-Settings/shaders/world1/composite11.fsh"
+hash = "e1bb54499204e739b7f9472c833278cf8b28452ba78073abc72567138642897b"
+
+[[files]]
+file = "overrides/shaderpacks/Bliss-Shader-ArdaCraft-Settings/shaders/world1/composite11.vsh"
+hash = "e116001edf0449f0cbe1dd8005ea2c461355af636fe0fb5fafa024336504870c"
+
+[[files]]
+file = "overrides/shaderpacks/Bliss-Shader-ArdaCraft-Settings/shaders/world1/composite12.fsh"
+hash = "33792554a39c1acbb8ffa43262bde02d8e0ce9dc482304e0731c83e3e55f97b9"
+
+[[files]]
+file = "overrides/shaderpacks/Bliss-Shader-ArdaCraft-Settings/shaders/world1/composite12.vsh"
+hash = "552cc0b43d1c3b435b3055decf15b1fa5795fa2375be00407c4cc9352c5df827"
+
+[[files]]
+file = "overrides/shaderpacks/Bliss-Shader-ArdaCraft-Settings/shaders/world1/composite13.fsh"
+hash = "15e13e3d336666aebfc287e3658b911129a94c2de52968dea4b9334bb91c671c"
+
+[[files]]
+file = "overrides/shaderpacks/Bliss-Shader-ArdaCraft-Settings/shaders/world1/composite13.vsh"
+hash = "d6d66803607c021929c6b1feb2d961d350768d670735d462e9925d1d6095504c"
+
+[[files]]
+file = "overrides/shaderpacks/Bliss-Shader-ArdaCraft-Settings/shaders/world1/composite2.fsh"
+hash = "7f627dfa19450f6549e451e18b441a30c3189e9d0470011eb86eefd4356340c2"
+
+[[files]]
+file = "overrides/shaderpacks/Bliss-Shader-ArdaCraft-Settings/shaders/world1/composite2.vsh"
+hash = "c32a362bd0d76b73971b1e42c0000c143574a3afff86bfe838dddcb825347575"
+
+[[files]]
+file = "overrides/shaderpacks/Bliss-Shader-ArdaCraft-Settings/shaders/world1/composite3.fsh"
+hash = "80f7b61ccb950eb4218696e85cfb26b60b2aa9785a13c324020e11798b10559e"
+
+[[files]]
+file = "overrides/shaderpacks/Bliss-Shader-ArdaCraft-Settings/shaders/world1/composite3.vsh"
+hash = "aa8b3508796ee6fde89c6098d1f85965ec27792ca07c6da70f14f0af358e21c3"
+
+[[files]]
+file = "overrides/shaderpacks/Bliss-Shader-ArdaCraft-Settings/shaders/world1/composite4.fsh"
+hash = "c3e0c02d15c4f836674131b9b358bbe021a7abc238e8481a9c513da986a9ce45"
+
+[[files]]
+file = "overrides/shaderpacks/Bliss-Shader-ArdaCraft-Settings/shaders/world1/composite4.vsh"
+hash = "8127249c2b30d77a1f0c8d29c4dcffd152c3466fb702721e20117409bfdf739d"
+
+[[files]]
+file = "overrides/shaderpacks/Bliss-Shader-ArdaCraft-Settings/shaders/world1/composite5.fsh"
+hash = "35ac2a7012df32a8b4255bfa13a55ef0b94aa59632b3dcdc4e1886b76abb1acd"
+
+[[files]]
+file = "overrides/shaderpacks/Bliss-Shader-ArdaCraft-Settings/shaders/world1/composite5.vsh"
+hash = "ed75b25e7b99db39d5e940fa3ad56d2936303b94675b61f27eb6751c542e8eed"
+
+[[files]]
+file = "overrides/shaderpacks/Bliss-Shader-ArdaCraft-Settings/shaders/world1/composite6.fsh"
+hash = "cdf06846d4de2ead6fa912fa980d5f8638ab5810450fe97955357a974ccc2ec5"
+
+[[files]]
+file = "overrides/shaderpacks/Bliss-Shader-ArdaCraft-Settings/shaders/world1/composite6.vsh"
+hash = "f6e2d40747e07b6faf878b665335a613d328456d1a913f23c36c41727655f162"
+
+[[files]]
+file = "overrides/shaderpacks/Bliss-Shader-ArdaCraft-Settings/shaders/world1/composite7.fsh"
+hash = "2ad9632895919c826d11dc1ff22758a9d218d51b49bb442ec8c12710c8e968c0"
+
+[[files]]
+file = "overrides/shaderpacks/Bliss-Shader-ArdaCraft-Settings/shaders/world1/composite7.vsh"
+hash = "f8a67541a2c0eb0eb982bf3281f1c3d825d3cc45d8c115642aecd67ee89d2b71"
+
+[[files]]
+file = "overrides/shaderpacks/Bliss-Shader-ArdaCraft-Settings/shaders/world1/composite8.fsh"
+hash = "35682fa3fb071e53172e0721b7c97baa07867020fd350283afe7381787841a47"
+
+[[files]]
+file = "overrides/shaderpacks/Bliss-Shader-ArdaCraft-Settings/shaders/world1/composite8.vsh"
+hash = "aa3d24c5067651fd7a429dd319ad15e240137e44fd7cf694f56e2bec51aeb908"
+
+[[files]]
+file = "overrides/shaderpacks/Bliss-Shader-ArdaCraft-Settings/shaders/world1/composite9.fsh"
+hash = "a2096c4c8f41e6fb69f4516001cba4c3de181d8065c234f01e04b6b8f9e2ead7"
+
+[[files]]
+file = "overrides/shaderpacks/Bliss-Shader-ArdaCraft-Settings/shaders/world1/composite9.vsh"
+hash = "ab6056b4380c57c5bebcfe09cd77a959ad3834c9ff64e94243cd8d41439de61c"
+
+[[files]]
+file = "overrides/shaderpacks/Bliss-Shader-ArdaCraft-Settings/shaders/world1/deferred.fsh"
+hash = "fd8379fdddeb058aca10b98f8338c9325bf553b8a9c9d3e6599da784df763d60"
+
+[[files]]
+file = "overrides/shaderpacks/Bliss-Shader-ArdaCraft-Settings/shaders/world1/deferred.vsh"
+hash = "162659e542758f57373c3455ff46e212a2a838cf4991212c37ba70bb8f586943"
+
+[[files]]
+file = "overrides/shaderpacks/Bliss-Shader-ArdaCraft-Settings/shaders/world1/deferred1.fsh"
+hash = "11d7d62415d3ab4b6ac6662ca8612068a736407ef9610021e6bd6b77686634f0"
+
+[[files]]
+file = "overrides/shaderpacks/Bliss-Shader-ArdaCraft-Settings/shaders/world1/deferred1.vsh"
+hash = "9a67431a7ce8d41630c0bfc0f1dfa12a23ab85054a1d7819829dea4f4467c21e"
+
+[[files]]
+file = "overrides/shaderpacks/Bliss-Shader-ArdaCraft-Settings/shaders/world1/dh_terrain.fsh"
+hash = "e5d893314e82c0932d37e18fc756e7d670b583bdb5a14a22710225636d2ab2d7"
+
+[[files]]
+file = "overrides/shaderpacks/Bliss-Shader-ArdaCraft-Settings/shaders/world1/dh_terrain.vsh"
+hash = "5dfc72acdf556a9390581bd0bddf915b43485e41e6c31d0227c717af5201f1c8"
+
+[[files]]
+file = "overrides/shaderpacks/Bliss-Shader-ArdaCraft-Settings/shaders/world1/dh_water.fsh"
+hash = "eae9c81e8b522a2790c2c72858424e421f6c86d42e33f735690d86804183b540"
+
+[[files]]
+file = "overrides/shaderpacks/Bliss-Shader-ArdaCraft-Settings/shaders/world1/dh_water.vsh"
+hash = "a5711f7cc77076f399bcfa77bc72b1743137cd651f16091b2487465c7f5e26b8"
+
+[[files]]
+file = "overrides/shaderpacks/Bliss-Shader-ArdaCraft-Settings/shaders/world1/final.fsh"
+hash = "9f213f8ac75abfd0002c31ab99e9d042039ddd5754ec6f7bd3ce8a2d975d8fbf"
+
+[[files]]
+file = "overrides/shaderpacks/Bliss-Shader-ArdaCraft-Settings/shaders/world1/final.vsh"
+hash = "646d8666e9eead7114febdb1381b0af86a19a624103a29fc40ea64c3445435a2"
+
+[[files]]
+file = "overrides/shaderpacks/Bliss-Shader-ArdaCraft-Settings/shaders/world1/gbuffers_armor_glint.fsh"
+hash = "32e811b3025864963481994a0ff4ba59f913cd3416a34d5be0beef21cf54800d"
+
+[[files]]
+file = "overrides/shaderpacks/Bliss-Shader-ArdaCraft-Settings/shaders/world1/gbuffers_armor_glint.vsh"
+hash = "b2e4370a1c5ef9702ce07d6cdd9f9ddf612030a9b7d1070a7cdec0a2cbfa0f84"
+
+[[files]]
+file = "overrides/shaderpacks/Bliss-Shader-ArdaCraft-Settings/shaders/world1/gbuffers_basic.fsh"
+hash = "ce4447e6a8ab4a11a235e459109ff7d99f7abd2659367aa572060210e74af195"
+
+[[files]]
+file = "overrides/shaderpacks/Bliss-Shader-ArdaCraft-Settings/shaders/world1/gbuffers_basic.vsh"
+hash = "a97310cdc3d7400212daabb81f83699f982507cfd5ad820ed1d8181309efe3f4"
+
+[[files]]
+file = "overrides/shaderpacks/Bliss-Shader-ArdaCraft-Settings/shaders/world1/gbuffers_beaconbeam.fsh"
+hash = "d99c4fc07d57177437042a9bb4015c45fb7a5306c6dbdcde9047ec1d79e776c9"
+
+[[files]]
+file = "overrides/shaderpacks/Bliss-Shader-ArdaCraft-Settings/shaders/world1/gbuffers_beaconbeam.vsh"
+hash = "cacdb30330c55c45842c766c53dca496ae82a7f2e00a5d43506940c5f6080f1a"
+
+[[files]]
+file = "overrides/shaderpacks/Bliss-Shader-ArdaCraft-Settings/shaders/world1/gbuffers_block.fsh"
+hash = "b7f342819752800daa10d56263adf3f6ea8a3760d5fee150c030fe00fd6c6ec9"
+
+[[files]]
+file = "overrides/shaderpacks/Bliss-Shader-ArdaCraft-Settings/shaders/world1/gbuffers_block.vsh"
+hash = "2aa44188b2e69370d702e9377b56d85b3335ee535ee19f3e7f0b1f0ed620374e"
+
+[[files]]
+file = "overrides/shaderpacks/Bliss-Shader-ArdaCraft-Settings/shaders/world1/gbuffers_block_translucent.fsh"
+hash = "3268abd336e2d25bb31b2d9b865c8754734b138031cd118787e8ef6b534baf05"
+
+[[files]]
+file = "overrides/shaderpacks/Bliss-Shader-ArdaCraft-Settings/shaders/world1/gbuffers_block_translucent.vsh"
+hash = "d1a007dcdb2ef5d05037b74e2b4279c4bc9417d12ffdba9e9131ccc01b4b7d48"
+
+[[files]]
+file = "overrides/shaderpacks/Bliss-Shader-ArdaCraft-Settings/shaders/world1/gbuffers_damagedblock.fsh"
+hash = "973fa234ff3039a7f44b26bf5130ff3d050649c011c8bfb464acfa526349883a"
+
+[[files]]
+file = "overrides/shaderpacks/Bliss-Shader-ArdaCraft-Settings/shaders/world1/gbuffers_damagedblock.vsh"
+hash = "0c55b404e1b2ead3f78fc6890b7ece1449886dab937dae2faa546e6e74487600"
+
+[[files]]
+file = "overrides/shaderpacks/Bliss-Shader-ArdaCraft-Settings/shaders/world1/gbuffers_entities.fsh"
+hash = "7f4ed116dd4cb731175f710b032602362fcbd29659e281c1f5d1eaad40126131"
+
+[[files]]
+file = "overrides/shaderpacks/Bliss-Shader-ArdaCraft-Settings/shaders/world1/gbuffers_entities.vsh"
+hash = "86af1ced64de3255d52215dc1283c185b4b7d3b7f40c041feb192237f7b94c9a"
+
+[[files]]
+file = "overrides/shaderpacks/Bliss-Shader-ArdaCraft-Settings/shaders/world1/gbuffers_entities_glowing.fsh"
+hash = "98a5f42db2d07d4fcb6acd8a2aec22443ace778c2cc653148f83794b27b2f09f"
+
+[[files]]
+file = "overrides/shaderpacks/Bliss-Shader-ArdaCraft-Settings/shaders/world1/gbuffers_entities_glowing.vsh"
+hash = "491479dce079af7f2a6f053038c6e013fc9772c5923b225f0ca0289371741e63"
+
+[[files]]
+file = "overrides/shaderpacks/Bliss-Shader-ArdaCraft-Settings/shaders/world1/gbuffers_entities_translucent.fsh"
+hash = "191980c58e519ae9bd2d410e77f63c0098e1c59c3009a8cf9c9fe4c42cd0ce79"
+
+[[files]]
+file = "overrides/shaderpacks/Bliss-Shader-ArdaCraft-Settings/shaders/world1/gbuffers_entities_translucent.vsh"
+hash = "17393285a9426dca5b51037e133d9bd2e31eacba04781885b991882b7596942b"
+
+[[files]]
+file = "overrides/shaderpacks/Bliss-Shader-ArdaCraft-Settings/shaders/world1/gbuffers_hand.fsh"
+hash = "2843a26404c1864e906c62cfeb5520061e3a0e5852d369e2ad4462cab75c7c0e"
+
+[[files]]
+file = "overrides/shaderpacks/Bliss-Shader-ArdaCraft-Settings/shaders/world1/gbuffers_hand.vsh"
+hash = "e752b3f0b65a2711116c579aea2e2a2f0d97048b2f28d54ec8d200013b845170"
+
+[[files]]
+file = "overrides/shaderpacks/Bliss-Shader-ArdaCraft-Settings/shaders/world1/gbuffers_hand_water.fsh"
+hash = "b8996b6a3c191c8a2198be016e174db34bde179bdcaa2bfaa08fb08e718cc628"
+
+[[files]]
+file = "overrides/shaderpacks/Bliss-Shader-ArdaCraft-Settings/shaders/world1/gbuffers_hand_water.vsh"
+hash = "225b9d36830f004169c08d55d7b488143de7bff5967790892a5c1b72f13c07f6"
+
+[[files]]
+file = "overrides/shaderpacks/Bliss-Shader-ArdaCraft-Settings/shaders/world1/gbuffers_skybasic.fsh"
+hash = "11403a84af9a8f792c7f8314e47a4baf15357794a103c7f46ad182e597f816d8"
+
+[[files]]
+file = "overrides/shaderpacks/Bliss-Shader-ArdaCraft-Settings/shaders/world1/gbuffers_skybasic.vsh"
+hash = "71fb12008e1e39faf821eeac1026c05c879b823be7eccec6ad87a423cdcbf52f"
+
+[[files]]
+file = "overrides/shaderpacks/Bliss-Shader-ArdaCraft-Settings/shaders/world1/gbuffers_skytextured.fsh"
+hash = "11403a84af9a8f792c7f8314e47a4baf15357794a103c7f46ad182e597f816d8"
+
+[[files]]
+file = "overrides/shaderpacks/Bliss-Shader-ArdaCraft-Settings/shaders/world1/gbuffers_skytextured.vsh"
+hash = "71fb12008e1e39faf821eeac1026c05c879b823be7eccec6ad87a423cdcbf52f"
+
+[[files]]
+file = "overrides/shaderpacks/Bliss-Shader-ArdaCraft-Settings/shaders/world1/gbuffers_spidereyes.fsh"
+hash = "2571f13b24309a1c9b2b98498447cb31269650b8e2438dbdd7ddc4caf981ae03"
+
+[[files]]
+file = "overrides/shaderpacks/Bliss-Shader-ArdaCraft-Settings/shaders/world1/gbuffers_spidereyes.vsh"
+hash = "7eb36b94722183f8570e14fb9b6a4a254fa93d51ffd0b478a6363c9577f6ab6b"
+
+[[files]]
+file = "overrides/shaderpacks/Bliss-Shader-ArdaCraft-Settings/shaders/world1/gbuffers_terrain.fsh"
+hash = "87de52f3b1d0dbcc9d3e98c514092818965e4c57275324c32dc781b6930be25a"
+
+[[files]]
+file = "overrides/shaderpacks/Bliss-Shader-ArdaCraft-Settings/shaders/world1/gbuffers_terrain.vsh"
+hash = "b7b27b5a033384b467ee3a36899b82eeb9f831b4276e83e4b18c24344df983c5"
+
+[[files]]
+file = "overrides/shaderpacks/Bliss-Shader-ArdaCraft-Settings/shaders/world1/gbuffers_textured.fsh"
+hash = "5d56d122b564377edbaf51b45c07faf7bae3c0946af0348ffc36daf3f5a906ba"
+
+[[files]]
+file = "overrides/shaderpacks/Bliss-Shader-ArdaCraft-Settings/shaders/world1/gbuffers_textured.vsh"
+hash = "c9266fe6941402ab8b3746690c14f8677ff85943d1eadb9569b14e9deea3c5a5"
+
+[[files]]
+file = "overrides/shaderpacks/Bliss-Shader-ArdaCraft-Settings/shaders/world1/gbuffers_textured_lit.fsh"
+hash = "6044d4c77b22d50b505d0b28463fbef73ef14e7a07399dd2ad7d1ff19b9a94d5"
+
+[[files]]
+file = "overrides/shaderpacks/Bliss-Shader-ArdaCraft-Settings/shaders/world1/gbuffers_textured_lit.vsh"
+hash = "34f8e39cc054c34fbe663e15b264835dd5ef6a9466fadf7f519662a6ba91b413"
+
+[[files]]
+file = "overrides/shaderpacks/Bliss-Shader-ArdaCraft-Settings/shaders/world1/gbuffers_water.fsh"
+hash = "cc14c294de03d49227bf4c487eedfe9809ee445e1888a49a29861138ae1c25ae"
+
+[[files]]
+file = "overrides/shaderpacks/Bliss-Shader-ArdaCraft-Settings/shaders/world1/gbuffers_water.vsh"
+hash = "eab0678cabcf435dc19e15a51a45e73f37e1c7a152306aa420b7a44f929f643d"
+
+[[files]]
+file = "overrides/shaderpacks/Bliss-Shader-ArdaCraft-Settings/shaders/world1/gbuffers_weather.fsh"
+hash = "46d2ce73b33d6f1fd1dbcf9d3374e356e9d07baa69e72607b1e58fbb5846e8bd"
+
+[[files]]
+file = "overrides/shaderpacks/Bliss-Shader-ArdaCraft-Settings/shaders/world1/gbuffers_weather.vsh"
+hash = "953f17403bbc9abe7ec7c8ec2acc0db132b969dd2dd3a58e6ff350a66320b811"
+
+[[files]]
+file = "overrides/shaderpacks/Bliss-Shader-ArdaCraft-Settings/shaders/world1/setup.csh"
+hash = "67110eefeee00696b60c9516c2ed9dca6d472b2cb1ce3c578ed5b19076962513"
+
+[[files]]
+file = "overrides/shaderpacks/Bliss-Shader-ArdaCraft-Settings/shaders/world1/shadow.fsh"
+hash = "ef26bf9900023974b9efa2a29764d81ba493dddc9c7247b78b6ed4bc83e7fd40"
+
+[[files]]
+file = "overrides/shaderpacks/Bliss-Shader-ArdaCraft-Settings/shaders/world1/shadow.vsh"
+hash = "4fbd5d4e21a8463a1a9e5ba9ed16d27083732113f879817083a19093113b3791"
+
+[[files]]
+file = "overrides/shaderpacks/Bliss-Shader-ArdaCraft-Settings/shaders/world1/shadowcomp.csh"
+hash = "a7bea9eb7dc23939124e11d1e998e44a16ef5fa8b7fdf12553da12514cc2c730"
+
+[[files]]
+file = "overrides/shaderpacks/ComplementaryReimagined_r5.7.1.zip"
+hash = "24a20634a7832d422d3cd5023be16829f26840e25c69404dd418306ea79f63f0"
+
+[[files]]
+file = "overrides/shaderpacks/Nostalgia_v5.1.zip"
+hash = "7d7211af2fac6d9b3c7fcbaad7a47f1a612450376d14383088908831c18b6cc8"
