@@ -9,4 +9,5 @@
 	# true -> remove entities related to this flag
 	# false -> don't remove entities
 	remove_entities_for_spawning_flags = true
+# test
 
